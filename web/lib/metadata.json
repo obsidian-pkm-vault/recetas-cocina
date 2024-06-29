@@ -1,0 +1,1963 @@
+{
+  "vaultName": "recetas_españolas",
+  "lastExport": 1719685691836,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "recetas/acompañamiento/panes/img/pan-blanco.jpg",
+    "recetas/acompañamiento/panes/img/pan-chipa.jpg",
+    "recetas/acompañamiento/panes/img/pan-integral.jpg",
+    "recetas/acompañamiento/panes/img/pan-masa-madre.jpg",
+    "recetas/acompañamiento/panes/img/pan-sin-amasar.webp",
+    "recetas/acompañamiento/panes/img/pan-sin-amasar.jpg",
+    "recetas/acompañamiento/panes/img/pan-torta.jpg",
+    "recetas/acompañamiento/panes/img/pan-trigo-sarraceno.jpg",
+    "recetas/acompañamiento/panes/pan-blanco.md",
+    "recetas/acompañamiento/panes/pan-chipa.md",
+    "recetas/acompañamiento/panes/pan-integral.md",
+    "recetas/acompañamiento/panes/pan-masa-madre.md",
+    "recetas/acompañamiento/panes/pan-sin-amasar.md",
+    "recetas/acompañamiento/panes/pan-torta.md",
+    "recetas/acompañamiento/panes/pan-trigo-sarraceno.md",
+    "recetas/acompañamiento/salsas/img/mayonesa.webp",
+    "recetas/acompañamiento/salsas/img/salsa-tartara.webp",
+    "recetas/acompañamiento/salsas/mayonesa.md",
+    "recetas/acompañamiento/salsas/mozzarella.md",
+    "recetas/acompañamiento/salsas/salsa-tartara.md",
+    "recetas/bebidas/img/cafes-malaga.jpg",
+    "recetas/bebidas/img/cerveza-dry-stout.png",
+    "recetas/bebidas/img/cerveza-mandioca-stout.jpg",
+    "recetas/bebidas/img/essential-coffee.jpg",
+    "recetas/bebidas/img/tipos-cafe.jpg",
+    "recetas/bebidas/img/types-coffee.jpg",
+    "recetas/bebidas/cafes.md",
+    "recetas/bebidas/cerveza-dry-stout.md",
+    "recetas/bebidas/cerveza-mandioca-stout.md",
+    "recetas/bebidas/cheese_with_wine.md",
+    "recetas/bebidas/jugos.md",
+    "recetas/bebidas/wine_with_cheese.md",
+    "recetas/platos/arroces/paella.md",
+    "recetas/platos/arroces/paella.jpg",
+    "recetas/platos/carnes/img/fiambre-casero-pavo.jpg",
+    "recetas/platos/carnes/img/filete-ternera.jpg",
+    "recetas/platos/carnes/img/milanesa-napolitana.jpg",
+    "recetas/platos/carnes/img/pechuga-con-puerros.jpg",
+    "recetas/platos/carnes/img/pechuga-pavo-nueces.webp",
+    "recetas/platos/carnes/img/pollo-al-curry.jpg",
+    "recetas/platos/carnes/img/pollo-cazuela.jpg",
+    "recetas/platos/carnes/img/quiche-lorraine.jpg",
+    "recetas/platos/carnes/fiambre-casero-pavo.md",
+    "recetas/platos/carnes/filetes-ternera.md",
+    "recetas/platos/carnes/milanesa-napolitana.md",
+    "recetas/platos/carnes/pechuga-con-puerros.md",
+    "recetas/platos/carnes/pechuga-pavo-nueces.md",
+    "recetas/platos/carnes/pollo-al-curry.md",
+    "recetas/platos/carnes/pollo-cazuela.md",
+    "recetas/platos/carnes/quiche-lorraine.md",
+    "recetas/platos/ensaladas/img/ensalada-americana.jpg",
+    "recetas/platos/ensaladas/img/ensalada-arroz.jpg",
+    "recetas/platos/ensaladas/img/ensalada-estilo-ale.jpg",
+    "recetas/platos/ensaladas/img/ensalada-paraguaya.jpg",
+    "recetas/platos/ensaladas/img/ensalada-salsa-yogur.jpg",
+    "recetas/platos/ensaladas/ensalada-americana.md",
+    "recetas/platos/ensaladas/ensalada-arroz.md",
+    "recetas/platos/ensaladas/ensalada-estilo-ale.md",
+    "recetas/platos/ensaladas/ensalada-paraguaya.md",
+    "recetas/platos/guiso-potaje/img/crema-calabacin.jpg",
+    "recetas/platos/guiso-potaje/img/crema-calabacin-queso.jpg",
+    "recetas/platos/guiso-potaje/img/guiso-lentejas.jpg",
+    "recetas/platos/guiso-potaje/img/guiso-lentejas-veg.jpg",
+    "recetas/platos/guiso-potaje/img/locro.jpg",
+    "recetas/platos/guiso-potaje/img/potaje-blanco.jpg",
+    "recetas/platos/guiso-potaje/img/sopa-ajo.webp",
+    "recetas/platos/guiso-potaje/img/sopa-carne.jpg",
+    "recetas/platos/guiso-potaje/img/sopa-cebolla.jpg",
+    "recetas/platos/guiso-potaje/img/sopa-san-pancracio.jpg",
+    "recetas/platos/guiso-potaje/crema-calabacin-queso.md",
+    "recetas/platos/guiso-potaje/guiso-lentejas.md",
+    "recetas/platos/guiso-potaje/guiso-lentejas-veg.md",
+    "recetas/platos/guiso-potaje/locro.md",
+    "recetas/platos/guiso-potaje/potaje-blanco.md",
+    "recetas/platos/guiso-potaje/sopa-ajo.md",
+    "recetas/platos/guiso-potaje/sopa-carne.md",
+    "recetas/platos/guiso-potaje/sopa-cebolla.md",
+    "recetas/platos/guiso-potaje/sopa-san-pancracio.md",
+    "recetas/platos/papas/patatas-paletilla.md",
+    "recetas/platos/pastas/img/espaguetis-carbonara.jpg",
+    "recetas/platos/pastas/espaguetis-carbonara.md",
+    "recetas/platos/pescados/img/bacalao.jpg",
+    "recetas/platos/pescados/img/calamares-rellenos.jpg",
+    "recetas/platos/pescados/img/cazuela-pescado.jpg",
+    "recetas/platos/pescados/img/colchon-arvejas.jpg",
+    "recetas/platos/pescados/img/espinacas-con-gambas.jpg",
+    "recetas/platos/pescados/img/hojladre-gambas.jpg",
+    "recetas/platos/pescados/img/pudin-pescado.jpg",
+    "recetas/platos/pescados/img/pudin-verduras.jpg",
+    "recetas/platos/pescados/img/rilletes-sardinas.jpg",
+    "recetas/platos/pescados/img/salmon-marinado.jpg",
+    "recetas/platos/pescados/img/verdura-pasta.jpg",
+    "recetas/platos/pescados/bacalao.md",
+    "recetas/platos/pescados/brota.md",
+    "recetas/platos/pescados/calamares-rellenos.md",
+    "recetas/platos/pescados/cazuela-pescado.md",
+    "recetas/platos/pescados/colchon-arvejas.md",
+    "recetas/platos/pescados/hojaldre-gambas.md",
+    "recetas/platos/pescados/pescado-salsa-guisantes.md",
+    "recetas/platos/pescados/pudin-pescado.md",
+    "recetas/platos/pescados/rilletes-sardinas.md",
+    "recetas/platos/pescados/salmon-marinado.md",
+    "recetas/platos/pizzas/pizza.md",
+    "recetas/platos/pizzas/pizza.jpg",
+    "recetas/platos/verduras/img/acelgas-adobo.jpg",
+    "recetas/platos/verduras/img/acelgas-guisadas.jpg",
+    "recetas/platos/verduras/img/col-con-azafran.jpg",
+    "recetas/platos/verduras/img/col-con-bechamel.jpg",
+    "recetas/platos/verduras/img/coliflor-azafran.jpg",
+    "recetas/platos/verduras/img/espinacas-con-gambas.jpg",
+    "recetas/platos/verduras/img/judias-verdes-con-papas.jpg",
+    "recetas/platos/verduras/img/pudin-verduras.jpg",
+    "recetas/platos/verduras/img/verduras-con-pasta.jpg",
+    "recetas/platos/verduras/acelgas-con-adobo.md",
+    "recetas/platos/verduras/acelgas-guisadas.md",
+    "recetas/platos/verduras/col-con-azafran.md",
+    "recetas/platos/verduras/col-con-bechamel.md",
+    "recetas/platos/verduras/espinacas-con-gambas.md",
+    "recetas/platos/verduras/judias-verdes-con-papas.md",
+    "recetas/platos/verduras/pudin-verduras.md",
+    "recetas/platos/verduras/verdura-pasta.md",
+    "recetas/postres/bizcocho/img/bizcocho.jpg",
+    "recetas/postres/bizcocho/img/bizcocho-chocolate.jpg",
+    "recetas/postres/bizcocho/img/bizcocho-zanahoria.jpg",
+    "recetas/postres/bizcocho/img/bizcochon-joel.jpg",
+    "recetas/postres/bizcocho/img/brownie-choco.jpg",
+    "recetas/postres/bizcocho/img/brownie-chocolate.jpg",
+    "recetas/postres/bizcocho/img/budin-banana.jpg",
+    "recetas/postres/bizcocho/img/queque-con-yogur.jpg",
+    "recetas/postres/bizcocho/bizcocho.md",
+    "recetas/postres/bizcocho/bizcocho-chocolate.md",
+    "recetas/postres/bizcocho/bizcocho-zanahoria.md",
+    "recetas/postres/bizcocho/bizcochon-joel.md",
+    "recetas/postres/bizcocho/brownie-choco.md",
+    "recetas/postres/bizcocho/browny-chocolate.md",
+    "recetas/postres/bizcocho/budin-banana.md",
+    "recetas/postres/bizcocho/queque-con-yogur.md",
+    "recetas/postres/cremas/img/crema-americana.jpg",
+    "recetas/postres/cremas/img/crema-limon.jpg",
+    "recetas/postres/cremas/img/crema-pastelera.jpg",
+    "recetas/postres/cremas/img/crema-relleno-tarta.jpg",
+    "recetas/postres/cremas/crema-americana.md",
+    "recetas/postres/cremas/crema-limon.md",
+    "recetas/postres/cremas/crema-pastelera.md",
+    "recetas/postres/cremas/crema-relleno-tarta.md",
+    "recetas/postres/dulces/img/arroz-con-leche.webp",
+    "recetas/postres/dulces/img/arroz-con-leche-coco.jpg",
+    "recetas/postres/dulces/img/barritas-cereales.jpg",
+    "recetas/postres/dulces/img/cocadas.jpg",
+    "recetas/postres/dulces/img/fresones-a-la-crema.jpg",
+    "recetas/postres/dulces/img/gelatina-piña.webp",
+    "recetas/postres/dulces/img/leche-asada-canaria.jpg",
+    "recetas/postres/dulces/img/limones-rellenos.jpg",
+    "recetas/postres/dulces/img/pepas-con-frambuesa.jpg",
+    "recetas/postres/dulces/img/quesada.webp",
+    "recetas/postres/dulces/img/quesadilla.jpeg",
+    "recetas/postres/dulces/img/sufle.png",
+    "recetas/postres/dulces/img/tiramisu.jpg",
+    "recetas/postres/dulces/arroz-con-leche.md",
+    "recetas/postres/dulces/arroz-con-leche-coco.md",
+    "recetas/postres/dulces/barritas-cereales.md",
+    "recetas/postres/dulces/cocadas.md",
+    "recetas/postres/dulces/fresones-a-la-crema.md",
+    "recetas/postres/dulces/gelatina-piña.md",
+    "recetas/postres/dulces/leche-asada-canaria.md",
+    "recetas/postres/dulces/limones-rellenos.md",
+    "recetas/postres/dulces/pepas-frambuesa.md",
+    "recetas/postres/dulces/quesada.md",
+    "recetas/postres/dulces/quesadilla.md",
+    "recetas/postres/dulces/sufle.md",
+    "recetas/postres/dulces/tiramisu.md",
+    "recetas/postres/flanes/img/flan-cafe.jpg",
+    "recetas/postres/flanes/img/flan-calabaza.jpg",
+    "recetas/postres/flanes/img/flan-limon.jpg",
+    "recetas/postres/flanes/flan-cafe.md",
+    "recetas/postres/flanes/flan-calabaza.md",
+    "recetas/postres/flanes/flan-limon.md",
+    "recetas/postres/flanes/flan-queso.md",
+    "recetas/postres/helados/img/helado-gelatina-fresa.jpg",
+    "recetas/postres/helados/helado-gelatina-fresa.md",
+    "recetas/postres/mousses/img/mousse-chocolate.webp",
+    "recetas/postres/mousses/img/mousse-gofio.jpg",
+    "recetas/postres/mousses/img/mousse-limon.jpg",
+    "recetas/postres/mousses/img/mousse-manzana.jpg",
+    "recetas/postres/mousses/img/mousse-naranja.jpg",
+    "recetas/postres/mousses/mousse-chocolate.md",
+    "recetas/postres/mousses/mousse-gofio.md",
+    "recetas/postres/mousses/mousse-limon.md",
+    "recetas/postres/mousses/mousse-manzana.md",
+    "recetas/postres/mousses/mousse-naranja.md",
+    "recetas/postres/tartas/img/tarta-calabaza-1.jpg",
+    "recetas/postres/tartas/img/tarta-calabaza-2.jpg",
+    "recetas/postres/tartas/img/tarta-de-manzana-y-hojaldre.jpg",
+    "recetas/postres/tartas/img/tarta-kanikama-puerro.jpg",
+    "recetas/postres/tartas/img/tarta-manzana.jpg",
+    "recetas/postres/tartas/img/tarta-piña.jpg",
+    "recetas/postres/tartas/img/tarta-queso.jpg",
+    "recetas/postres/tartas/img/tarta-ricota.jpg",
+    "recetas/postres/tartas/tarta-calabaza-1.md",
+    "recetas/postres/tartas/tarta-calabaza-2.md",
+    "recetas/postres/tartas/tarta-kanikama-puerro.md",
+    "recetas/postres/tartas/tarta-manzana.md",
+    "recetas/postres/tartas/tarta-manzana-hojaldre.md",
+    "recetas/postres/tartas/tarta-piña.md",
+    "recetas/postres/tartas/tarta-queso.md",
+    "recetas/postres/tartas/tarta-ricota.md",
+    "recetas/listado-comidas.md",
+    "recetas/menus.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "recetas/acompañamiento/panes/img/pan-blanco.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 129209,
+      "exportedPath": "recetas/acompañamiento/panes/img/pan-blanco.jpg",
+      "dependencies": []
+    },
+    "recetas/acompañamiento/panes/img/pan-chipa.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 63799,
+      "exportedPath": "recetas/acompañamiento/panes/img/pan-chipa.jpg",
+      "dependencies": []
+    },
+    "recetas/acompañamiento/panes/img/pan-integral.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 89264,
+      "exportedPath": "recetas/acompañamiento/panes/img/pan-integral.jpg",
+      "dependencies": []
+    },
+    "recetas/acompañamiento/panes/img/pan-masa-madre.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 703131,
+      "exportedPath": "recetas/acompañamiento/panes/img/pan-masa-madre.jpg",
+      "dependencies": []
+    },
+    "recetas/acompañamiento/panes/img/pan-sin-amasar.webp": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 80690,
+      "exportedPath": "recetas/acompañamiento/panes/img/pan-sin-amasar.webp",
+      "dependencies": []
+    },
+    "recetas/acompañamiento/panes/img/pan-sin-amasar.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 544157,
+      "exportedPath": "recetas/acompañamiento/panes/img/pan-sin-amasar.jpg",
+      "dependencies": []
+    },
+    "recetas/acompañamiento/panes/img/pan-torta.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 152042,
+      "exportedPath": "recetas/acompañamiento/panes/img/pan-torta.jpg",
+      "dependencies": []
+    },
+    "recetas/acompañamiento/panes/img/pan-trigo-sarraceno.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 49353,
+      "exportedPath": "recetas/acompañamiento/panes/img/pan-trigo-sarraceno.jpg",
+      "dependencies": []
+    },
+    "recetas/acompañamiento/panes/pan-blanco.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 3422,
+      "exportedPath": "recetas/acompañamiento/panes/pan-blanco.html",
+      "dependencies": [
+        "recetas/acompañamiento/panes/img/pan-blanco.jpg",
+        "recetas/acompañamiento/panes/img/pan-blanco.jpg"
+      ]
+    },
+    "recetas/acompañamiento/panes/pan-chipa.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1920,
+      "exportedPath": "recetas/acompañamiento/panes/pan-chipa.html",
+      "dependencies": [
+        "recetas/acompañamiento/panes/img/pan-chipa.jpg",
+        "recetas/acompañamiento/panes/img/pan-chipa.jpg"
+      ]
+    },
+    "recetas/acompañamiento/panes/pan-integral.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1732,
+      "exportedPath": "recetas/acompañamiento/panes/pan-integral.html",
+      "dependencies": [
+        "recetas/acompañamiento/panes/img/pan-integral.jpg",
+        "recetas/acompañamiento/panes/img/pan-integral.jpg"
+      ]
+    },
+    "recetas/acompañamiento/panes/pan-masa-madre.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1460,
+      "exportedPath": "recetas/acompañamiento/panes/pan-masa-madre.html",
+      "dependencies": [
+        "recetas/acompañamiento/panes/img/pan-masa-madre.jpg",
+        "recetas/acompañamiento/panes/img/pan-masa-madre.jpg"
+      ]
+    },
+    "recetas/acompañamiento/panes/pan-sin-amasar.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1871,
+      "exportedPath": "recetas/acompañamiento/panes/pan-sin-amasar.html",
+      "dependencies": [
+        "recetas/acompañamiento/panes/img/pan-sin-amasar.webp",
+        "recetas/acompañamiento/panes/img/pan-sin-amasar.webp"
+      ]
+    },
+    "recetas/acompañamiento/panes/pan-torta.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 984,
+      "exportedPath": "recetas/acompañamiento/panes/pan-torta.html",
+      "dependencies": [
+        "recetas/acompañamiento/panes/img/pan-torta.jpg",
+        "recetas/acompañamiento/panes/img/pan-torta.jpg"
+      ]
+    },
+    "recetas/acompañamiento/panes/pan-trigo-sarraceno.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 2180,
+      "exportedPath": "recetas/acompañamiento/panes/pan-trigo-sarraceno.html",
+      "dependencies": [
+        "recetas/acompañamiento/panes/img/pan-trigo-sarraceno.jpg",
+        "recetas/acompañamiento/panes/img/pan-trigo-sarraceno.jpg"
+      ]
+    },
+    "recetas/acompañamiento/salsas/img/mayonesa.webp": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 871422,
+      "exportedPath": "recetas/acompañamiento/salsas/img/mayonesa.webp",
+      "dependencies": []
+    },
+    "recetas/acompañamiento/salsas/img/salsa-tartara.webp": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 32474,
+      "exportedPath": "recetas/acompañamiento/salsas/img/salsa-tartara.webp",
+      "dependencies": []
+    },
+    "recetas/acompañamiento/salsas/mayonesa.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1026,
+      "exportedPath": "recetas/acompañamiento/salsas/mayonesa.html",
+      "dependencies": [
+        "recetas/acompañamiento/salsas/img/mayonesa.webp",
+        "recetas/acompañamiento/salsas/img/mayonesa.webp"
+      ]
+    },
+    "recetas/acompañamiento/salsas/mozzarella.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1422,
+      "exportedPath": "recetas/acompañamiento/salsas/mozzarella.html",
+      "dependencies": []
+    },
+    "recetas/acompañamiento/salsas/salsa-tartara.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 733,
+      "exportedPath": "recetas/acompañamiento/salsas/salsa-tartara.html",
+      "dependencies": [
+        "recetas/acompañamiento/salsas/img/salsa-tartara.webp",
+        "recetas/acompañamiento/salsas/img/salsa-tartara.webp"
+      ]
+    },
+    "recetas/bebidas/img/cafes-malaga.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 70542,
+      "exportedPath": "recetas/bebidas/img/cafes-malaga.jpg",
+      "dependencies": []
+    },
+    "recetas/bebidas/img/cerveza-dry-stout.png": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1152106,
+      "exportedPath": "recetas/bebidas/img/cerveza-dry-stout.png",
+      "dependencies": []
+    },
+    "recetas/bebidas/img/cerveza-mandioca-stout.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 65907,
+      "exportedPath": "recetas/bebidas/img/cerveza-mandioca-stout.jpg",
+      "dependencies": []
+    },
+    "recetas/bebidas/img/essential-coffee.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 77423,
+      "exportedPath": "recetas/bebidas/img/essential-coffee.jpg",
+      "dependencies": []
+    },
+    "recetas/bebidas/img/tipos-cafe.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 325638,
+      "exportedPath": "recetas/bebidas/img/tipos-cafe.jpg",
+      "dependencies": []
+    },
+    "recetas/bebidas/img/types-coffee.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 564156,
+      "exportedPath": "recetas/bebidas/img/types-coffee.jpg",
+      "dependencies": []
+    },
+    "recetas/bebidas/cafes.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1676,
+      "exportedPath": "recetas/bebidas/cafes.html",
+      "dependencies": []
+    },
+    "recetas/bebidas/cerveza-dry-stout.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 2658,
+      "exportedPath": "recetas/bebidas/cerveza-dry-stout.html",
+      "dependencies": []
+    },
+    "recetas/bebidas/cerveza-mandioca-stout.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 2252,
+      "exportedPath": "recetas/bebidas/cerveza-mandioca-stout.html",
+      "dependencies": []
+    },
+    "recetas/bebidas/cheese_with_wine.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 4118,
+      "exportedPath": "recetas/bebidas/cheese_with_wine.html",
+      "dependencies": []
+    },
+    "recetas/bebidas/jugos.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 2983,
+      "exportedPath": "recetas/bebidas/jugos.html",
+      "dependencies": []
+    },
+    "recetas/bebidas/wine_with_cheese.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 13975,
+      "exportedPath": "recetas/bebidas/wine_with_cheese.html",
+      "dependencies": []
+    },
+    "recetas/platos/arroces/paella.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 2765,
+      "exportedPath": "recetas/platos/arroces/paella.html",
+      "dependencies": [
+        "recetas/platos/arroces/paella.jpg",
+        "recetas/platos/arroces/paella.jpg"
+      ]
+    },
+    "recetas/platos/arroces/paella.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1044669,
+      "exportedPath": "recetas/platos/arroces/paella.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/carnes/img/fiambre-casero-pavo.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 97098,
+      "exportedPath": "recetas/platos/carnes/img/fiambre-casero-pavo.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/carnes/img/filete-ternera.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 224917,
+      "exportedPath": "recetas/platos/carnes/img/filete-ternera.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/carnes/img/milanesa-napolitana.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 122371,
+      "exportedPath": "recetas/platos/carnes/img/milanesa-napolitana.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/carnes/img/pechuga-con-puerros.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 83778,
+      "exportedPath": "recetas/platos/carnes/img/pechuga-con-puerros.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/carnes/img/pechuga-pavo-nueces.webp": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 172476,
+      "exportedPath": "recetas/platos/carnes/img/pechuga-pavo-nueces.webp",
+      "dependencies": []
+    },
+    "recetas/platos/carnes/img/pollo-al-curry.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 168033,
+      "exportedPath": "recetas/platos/carnes/img/pollo-al-curry.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/carnes/img/pollo-cazuela.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 203897,
+      "exportedPath": "recetas/platos/carnes/img/pollo-cazuela.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/carnes/img/quiche-lorraine.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 134627,
+      "exportedPath": "recetas/platos/carnes/img/quiche-lorraine.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/carnes/fiambre-casero-pavo.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 2047,
+      "exportedPath": "recetas/platos/carnes/fiambre-casero-pavo.html",
+      "dependencies": [
+        "recetas/platos/carnes/img/fiambre-casero-pavo.jpg",
+        "recetas/platos/carnes/img/fiambre-casero-pavo.jpg"
+      ]
+    },
+    "recetas/platos/carnes/filetes-ternera.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1685,
+      "exportedPath": "recetas/platos/carnes/filetes-ternera.html",
+      "dependencies": [
+        "recetas/platos/carnes/img/filete-ternera.jpg",
+        "recetas/platos/carnes/img/filete-ternera.jpg"
+      ]
+    },
+    "recetas/platos/carnes/milanesa-napolitana.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1801,
+      "exportedPath": "recetas/platos/carnes/milanesa-napolitana.html",
+      "dependencies": [
+        "recetas/platos/carnes/img/milanesa-napolitana.jpg",
+        "recetas/platos/carnes/img/milanesa-napolitana.jpg"
+      ]
+    },
+    "recetas/platos/carnes/pechuga-con-puerros.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 762,
+      "exportedPath": "recetas/platos/carnes/pechuga-con-puerros.html",
+      "dependencies": [
+        "recetas/platos/carnes/img/pechuga-con-puerros.jpg",
+        "recetas/platos/carnes/img/pechuga-con-puerros.jpg"
+      ]
+    },
+    "recetas/platos/carnes/pechuga-pavo-nueces.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 929,
+      "exportedPath": "recetas/platos/carnes/pechuga-pavo-nueces.html",
+      "dependencies": [
+        "recetas/platos/carnes/img/pechuga-pavo-nueces.webp",
+        "recetas/platos/carnes/img/pechuga-pavo-nueces.webp"
+      ]
+    },
+    "recetas/platos/carnes/pollo-al-curry.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1222,
+      "exportedPath": "recetas/platos/carnes/pollo-al-curry.html",
+      "dependencies": [
+        "recetas/platos/carnes/img/pollo-al-curry.jpg",
+        "recetas/platos/carnes/img/pollo-al-curry.jpg"
+      ]
+    },
+    "recetas/platos/carnes/pollo-cazuela.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 830,
+      "exportedPath": "recetas/platos/carnes/pollo-cazuela.html",
+      "dependencies": [
+        "recetas/platos/carnes/img/pollo-cazuela.jpg",
+        "recetas/platos/carnes/img/pollo-cazuela.jpg"
+      ]
+    },
+    "recetas/platos/carnes/quiche-lorraine.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1933,
+      "exportedPath": "recetas/platos/carnes/quiche-lorraine.html",
+      "dependencies": [
+        "recetas/platos/carnes/img/quiche-lorraine.jpg",
+        "recetas/platos/carnes/img/quiche-lorraine.jpg"
+      ]
+    },
+    "recetas/platos/ensaladas/img/ensalada-americana.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 139554,
+      "exportedPath": "recetas/platos/ensaladas/img/ensalada-americana.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/ensaladas/img/ensalada-arroz.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 156214,
+      "exportedPath": "recetas/platos/ensaladas/img/ensalada-arroz.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/ensaladas/img/ensalada-estilo-ale.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 85710,
+      "exportedPath": "recetas/platos/ensaladas/img/ensalada-estilo-ale.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/ensaladas/img/ensalada-paraguaya.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 35878,
+      "exportedPath": "recetas/platos/ensaladas/img/ensalada-paraguaya.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/ensaladas/img/ensalada-salsa-yogur.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 74577,
+      "exportedPath": "recetas/platos/ensaladas/img/ensalada-salsa-yogur.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/ensaladas/ensalada-americana.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1670,
+      "exportedPath": "recetas/platos/ensaladas/ensalada-americana.html",
+      "dependencies": [
+        "recetas/platos/ensaladas/img/ensalada-americana.jpg",
+        "recetas/platos/ensaladas/img/ensalada-americana.jpg"
+      ]
+    },
+    "recetas/platos/ensaladas/ensalada-arroz.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1851,
+      "exportedPath": "recetas/platos/ensaladas/ensalada-arroz.html",
+      "dependencies": [
+        "recetas/platos/ensaladas/img/ensalada-arroz.jpg",
+        "recetas/platos/ensaladas/img/ensalada-arroz.jpg"
+      ]
+    },
+    "recetas/platos/ensaladas/ensalada-estilo-ale.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1306,
+      "exportedPath": "recetas/platos/ensaladas/ensalada-estilo-ale.html",
+      "dependencies": [
+        "recetas/platos/ensaladas/img/ensalada-estilo-ale.jpg",
+        "recetas/platos/ensaladas/img/ensalada-estilo-ale.jpg"
+      ]
+    },
+    "recetas/platos/ensaladas/ensalada-paraguaya.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 2017,
+      "exportedPath": "recetas/platos/ensaladas/ensalada-paraguaya.html",
+      "dependencies": [
+        "recetas/platos/ensaladas/img/ensalada-paraguaya.jpg",
+        "recetas/platos/ensaladas/img/ensalada-paraguaya.jpg"
+      ]
+    },
+    "recetas/platos/guiso-potaje/img/crema-calabacin.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 126324,
+      "exportedPath": "recetas/platos/guiso-potaje/img/crema-calabacin.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/guiso-potaje/img/crema-calabacin-queso.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 52000,
+      "exportedPath": "recetas/platos/guiso-potaje/img/crema-calabacin-queso.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/guiso-potaje/img/guiso-lentejas.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 865992,
+      "exportedPath": "recetas/platos/guiso-potaje/img/guiso-lentejas.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/guiso-potaje/img/guiso-lentejas-veg.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 597556,
+      "exportedPath": "recetas/platos/guiso-potaje/img/guiso-lentejas-veg.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/guiso-potaje/img/locro.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 197330,
+      "exportedPath": "recetas/platos/guiso-potaje/img/locro.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/guiso-potaje/img/potaje-blanco.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 109763,
+      "exportedPath": "recetas/platos/guiso-potaje/img/potaje-blanco.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/guiso-potaje/img/sopa-ajo.webp": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 49048,
+      "exportedPath": "recetas/platos/guiso-potaje/img/sopa-ajo.webp",
+      "dependencies": []
+    },
+    "recetas/platos/guiso-potaje/img/sopa-carne.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 170857,
+      "exportedPath": "recetas/platos/guiso-potaje/img/sopa-carne.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/guiso-potaje/img/sopa-cebolla.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 110167,
+      "exportedPath": "recetas/platos/guiso-potaje/img/sopa-cebolla.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/guiso-potaje/img/sopa-san-pancracio.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 56144,
+      "exportedPath": "recetas/platos/guiso-potaje/img/sopa-san-pancracio.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/guiso-potaje/crema-calabacin-queso.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1702,
+      "exportedPath": "recetas/platos/guiso-potaje/crema-calabacin-queso.html",
+      "dependencies": [
+        "recetas/platos/guiso-potaje/img/crema-calabacin.jpg",
+        "recetas/platos/guiso-potaje/img/crema-calabacin.jpg"
+      ]
+    },
+    "recetas/platos/guiso-potaje/guiso-lentejas.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1522,
+      "exportedPath": "recetas/platos/guiso-potaje/guiso-lentejas.html",
+      "dependencies": [
+        "recetas/platos/guiso-potaje/img/guiso-lentejas.jpg",
+        "recetas/platos/guiso-potaje/img/guiso-lentejas.jpg"
+      ]
+    },
+    "recetas/platos/guiso-potaje/guiso-lentejas-veg.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1402,
+      "exportedPath": "recetas/platos/guiso-potaje/guiso-lentejas-veg.html",
+      "dependencies": [
+        "recetas/platos/guiso-potaje/img/guiso-lentejas-veg.jpg",
+        "recetas/platos/guiso-potaje/img/guiso-lentejas-veg.jpg"
+      ]
+    },
+    "recetas/platos/guiso-potaje/locro.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 2067,
+      "exportedPath": "recetas/platos/guiso-potaje/locro.html",
+      "dependencies": [
+        "recetas/platos/guiso-potaje/img/locro.jpg",
+        "recetas/platos/guiso-potaje/img/locro.jpg"
+      ]
+    },
+    "recetas/platos/guiso-potaje/potaje-blanco.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1131,
+      "exportedPath": "recetas/platos/guiso-potaje/potaje-blanco.html",
+      "dependencies": [
+        "recetas/platos/guiso-potaje/img/potaje-blanco.jpg",
+        "recetas/platos/guiso-potaje/img/potaje-blanco.jpg"
+      ]
+    },
+    "recetas/platos/guiso-potaje/sopa-ajo.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1687,
+      "exportedPath": "recetas/platos/guiso-potaje/sopa-ajo.html",
+      "dependencies": [
+        "recetas/platos/guiso-potaje/img/sopa-ajo.webp",
+        "recetas/platos/guiso-potaje/img/sopa-ajo.webp"
+      ]
+    },
+    "recetas/platos/guiso-potaje/sopa-carne.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1154,
+      "exportedPath": "recetas/platos/guiso-potaje/sopa-carne.html",
+      "dependencies": [
+        "recetas/platos/guiso-potaje/img/sopa-carne.jpg",
+        "recetas/platos/guiso-potaje/img/sopa-carne.jpg"
+      ]
+    },
+    "recetas/platos/guiso-potaje/sopa-cebolla.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1228,
+      "exportedPath": "recetas/platos/guiso-potaje/sopa-cebolla.html",
+      "dependencies": [
+        "recetas/platos/guiso-potaje/img/sopa-cebolla.jpg",
+        "recetas/platos/guiso-potaje/img/sopa-cebolla.jpg"
+      ]
+    },
+    "recetas/platos/guiso-potaje/sopa-san-pancracio.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1155,
+      "exportedPath": "recetas/platos/guiso-potaje/sopa-san-pancracio.html",
+      "dependencies": [
+        "recetas/platos/guiso-potaje/img/sopa-san-pancracio.jpg",
+        "recetas/platos/guiso-potaje/img/sopa-san-pancracio.jpg"
+      ]
+    },
+    "recetas/platos/papas/patatas-paletilla.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1606,
+      "exportedPath": "recetas/platos/papas/patatas-paletilla.html",
+      "dependencies": []
+    },
+    "recetas/platos/pastas/img/espaguetis-carbonara.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 378451,
+      "exportedPath": "recetas/platos/pastas/img/espaguetis-carbonara.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/pastas/espaguetis-carbonara.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1791,
+      "exportedPath": "recetas/platos/pastas/espaguetis-carbonara.html",
+      "dependencies": [
+        "recetas/platos/pastas/img/espaguetis-carbonara.jpg",
+        "recetas/platos/pastas/img/espaguetis-carbonara.jpg"
+      ]
+    },
+    "recetas/platos/pescados/img/bacalao.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 987094,
+      "exportedPath": "recetas/platos/pescados/img/bacalao.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/pescados/img/calamares-rellenos.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 112570,
+      "exportedPath": "recetas/platos/pescados/img/calamares-rellenos.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/pescados/img/cazuela-pescado.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 30260,
+      "exportedPath": "recetas/platos/pescados/img/cazuela-pescado.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/pescados/img/colchon-arvejas.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 39254,
+      "exportedPath": "recetas/platos/pescados/img/colchon-arvejas.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/pescados/img/espinacas-con-gambas.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 123010,
+      "exportedPath": "recetas/platos/pescados/img/espinacas-con-gambas.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/pescados/img/hojladre-gambas.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 97092,
+      "exportedPath": "recetas/platos/pescados/img/hojladre-gambas.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/pescados/img/pudin-pescado.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1177583,
+      "exportedPath": "recetas/platos/pescados/img/pudin-pescado.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/pescados/img/pudin-verduras.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 98671,
+      "exportedPath": "recetas/platos/pescados/img/pudin-verduras.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/pescados/img/rilletes-sardinas.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 448716,
+      "exportedPath": "recetas/platos/pescados/img/rilletes-sardinas.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/pescados/img/salmon-marinado.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 85455,
+      "exportedPath": "recetas/platos/pescados/img/salmon-marinado.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/pescados/img/verdura-pasta.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 197800,
+      "exportedPath": "recetas/platos/pescados/img/verdura-pasta.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/pescados/bacalao.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1020,
+      "exportedPath": "recetas/platos/pescados/bacalao.html",
+      "dependencies": [
+        "recetas/platos/pescados/img/bacalao.jpg",
+        "recetas/platos/pescados/img/bacalao.jpg"
+      ]
+    },
+    "recetas/platos/pescados/brota.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1266,
+      "exportedPath": "recetas/platos/pescados/brota.html",
+      "dependencies": []
+    },
+    "recetas/platos/pescados/calamares-rellenos.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 2072,
+      "exportedPath": "recetas/platos/pescados/calamares-rellenos.html",
+      "dependencies": []
+    },
+    "recetas/platos/pescados/cazuela-pescado.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1816,
+      "exportedPath": "recetas/platos/pescados/cazuela-pescado.html",
+      "dependencies": [
+        "recetas/platos/pescados/img/cazuela-pescado.jpg",
+        "recetas/platos/pescados/img/cazuela-pescado.jpg"
+      ]
+    },
+    "recetas/platos/pescados/colchon-arvejas.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 2167,
+      "exportedPath": "recetas/platos/pescados/colchon-arvejas.html",
+      "dependencies": [
+        "recetas/platos/pescados/img/colchon-arvejas.jpg",
+        "recetas/platos/pescados/img/colchon-arvejas.jpg"
+      ]
+    },
+    "recetas/platos/pescados/hojaldre-gambas.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1862,
+      "exportedPath": "recetas/platos/pescados/hojaldre-gambas.html",
+      "dependencies": [
+        "recetas/platos/pescados/img/hojladre-gambas.jpg",
+        "recetas/platos/pescados/img/hojladre-gambas.jpg"
+      ]
+    },
+    "recetas/platos/pescados/pescado-salsa-guisantes.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1369,
+      "exportedPath": "recetas/platos/pescados/pescado-salsa-guisantes.html",
+      "dependencies": [
+        "recetas/platos/pescados/img/espinacas-con-gambas.jpg",
+        "recetas/platos/pescados/img/espinacas-con-gambas.jpg"
+      ]
+    },
+    "recetas/platos/pescados/pudin-pescado.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1429,
+      "exportedPath": "recetas/platos/pescados/pudin-pescado.html",
+      "dependencies": [
+        "recetas/platos/pescados/img/pudin-pescado.jpg",
+        "recetas/platos/pescados/img/pudin-pescado.jpg"
+      ]
+    },
+    "recetas/platos/pescados/rilletes-sardinas.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1685,
+      "exportedPath": "recetas/platos/pescados/rilletes-sardinas.html",
+      "dependencies": [
+        "recetas/platos/pescados/img/rilletes-sardinas.jpg",
+        "recetas/platos/pescados/img/rilletes-sardinas.jpg"
+      ]
+    },
+    "recetas/platos/pescados/salmon-marinado.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1970,
+      "exportedPath": "recetas/platos/pescados/salmon-marinado.html",
+      "dependencies": [
+        "recetas/platos/pescados/img/salmon-marinado.jpg",
+        "recetas/platos/pescados/img/salmon-marinado.jpg"
+      ]
+    },
+    "recetas/platos/pizzas/pizza.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 6715,
+      "exportedPath": "recetas/platos/pizzas/pizza.html",
+      "dependencies": []
+    },
+    "recetas/platos/pizzas/pizza.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 160755,
+      "exportedPath": "recetas/platos/pizzas/pizza.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/verduras/img/acelgas-adobo.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 175086,
+      "exportedPath": "recetas/platos/verduras/img/acelgas-adobo.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/verduras/img/acelgas-guisadas.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 79743,
+      "exportedPath": "recetas/platos/verduras/img/acelgas-guisadas.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/verduras/img/col-con-azafran.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 59087,
+      "exportedPath": "recetas/platos/verduras/img/col-con-azafran.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/verduras/img/col-con-bechamel.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 355824,
+      "exportedPath": "recetas/platos/verduras/img/col-con-bechamel.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/verduras/img/coliflor-azafran.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 281426,
+      "exportedPath": "recetas/platos/verduras/img/coliflor-azafran.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/verduras/img/espinacas-con-gambas.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 123010,
+      "exportedPath": "recetas/platos/verduras/img/espinacas-con-gambas.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/verduras/img/judias-verdes-con-papas.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 37926,
+      "exportedPath": "recetas/platos/verduras/img/judias-verdes-con-papas.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/verduras/img/pudin-verduras.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 114563,
+      "exportedPath": "recetas/platos/verduras/img/pudin-verduras.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/verduras/img/verduras-con-pasta.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 238478,
+      "exportedPath": "recetas/platos/verduras/img/verduras-con-pasta.jpg",
+      "dependencies": []
+    },
+    "recetas/platos/verduras/acelgas-con-adobo.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 721,
+      "exportedPath": "recetas/platos/verduras/acelgas-con-adobo.html",
+      "dependencies": [
+        "recetas/platos/verduras/img/acelgas-adobo.jpg",
+        "recetas/platos/verduras/img/acelgas-adobo.jpg"
+      ]
+    },
+    "recetas/platos/verduras/acelgas-guisadas.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 855,
+      "exportedPath": "recetas/platos/verduras/acelgas-guisadas.html",
+      "dependencies": [
+        "recetas/platos/verduras/img/acelgas-guisadas.jpg",
+        "recetas/platos/verduras/img/acelgas-guisadas.jpg"
+      ]
+    },
+    "recetas/platos/verduras/col-con-azafran.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1872,
+      "exportedPath": "recetas/platos/verduras/col-con-azafran.html",
+      "dependencies": [
+        "recetas/platos/verduras/img/coliflor-azafran.jpg",
+        "recetas/platos/verduras/img/coliflor-azafran.jpg"
+      ]
+    },
+    "recetas/platos/verduras/col-con-bechamel.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 983,
+      "exportedPath": "recetas/platos/verduras/col-con-bechamel.html",
+      "dependencies": [
+        "recetas/platos/verduras/img/col-con-bechamel.jpg",
+        "recetas/platos/verduras/img/col-con-bechamel.jpg"
+      ]
+    },
+    "recetas/platos/verduras/espinacas-con-gambas.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 725,
+      "exportedPath": "recetas/platos/verduras/espinacas-con-gambas.html",
+      "dependencies": [
+        "recetas/platos/verduras/img/espinacas-con-gambas.jpg",
+        "recetas/platos/verduras/img/espinacas-con-gambas.jpg"
+      ]
+    },
+    "recetas/platos/verduras/judias-verdes-con-papas.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1142,
+      "exportedPath": "recetas/platos/verduras/judias-verdes-con-papas.html",
+      "dependencies": [
+        "recetas/platos/verduras/img/judias-verdes-con-papas.jpg",
+        "recetas/platos/verduras/img/judias-verdes-con-papas.jpg"
+      ]
+    },
+    "recetas/platos/verduras/pudin-verduras.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1214,
+      "exportedPath": "recetas/platos/verduras/pudin-verduras.html",
+      "dependencies": [
+        "recetas/platos/verduras/img/pudin-verduras.jpg",
+        "recetas/platos/verduras/img/pudin-verduras.jpg"
+      ]
+    },
+    "recetas/platos/verduras/verdura-pasta.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1961,
+      "exportedPath": "recetas/platos/verduras/verdura-pasta.html",
+      "dependencies": [
+        "recetas/platos/verduras/img/verduras-con-pasta.jpg",
+        "recetas/platos/verduras/img/verduras-con-pasta.jpg"
+      ]
+    },
+    "recetas/postres/bizcocho/img/bizcocho.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 875127,
+      "exportedPath": "recetas/postres/bizcocho/img/bizcocho.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/bizcocho/img/bizcocho-chocolate.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 213842,
+      "exportedPath": "recetas/postres/bizcocho/img/bizcocho-chocolate.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/bizcocho/img/bizcocho-zanahoria.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 165029,
+      "exportedPath": "recetas/postres/bizcocho/img/bizcocho-zanahoria.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/bizcocho/img/bizcochon-joel.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 176792,
+      "exportedPath": "recetas/postres/bizcocho/img/bizcochon-joel.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/bizcocho/img/brownie-choco.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 231821,
+      "exportedPath": "recetas/postres/bizcocho/img/brownie-choco.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/bizcocho/img/brownie-chocolate.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 467976,
+      "exportedPath": "recetas/postres/bizcocho/img/brownie-chocolate.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/bizcocho/img/budin-banana.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 45224,
+      "exportedPath": "recetas/postres/bizcocho/img/budin-banana.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/bizcocho/img/queque-con-yogur.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 8527,
+      "exportedPath": "recetas/postres/bizcocho/img/queque-con-yogur.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/bizcocho/bizcocho.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 2011,
+      "exportedPath": "recetas/postres/bizcocho/bizcocho.html",
+      "dependencies": [
+        "recetas/postres/bizcocho/img/bizcocho.jpg",
+        "recetas/postres/bizcocho/img/bizcocho.jpg"
+      ]
+    },
+    "recetas/postres/bizcocho/bizcocho-chocolate.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1351,
+      "exportedPath": "recetas/postres/bizcocho/bizcocho-chocolate.html",
+      "dependencies": [
+        "recetas/postres/bizcocho/img/bizcocho-chocolate.jpg",
+        "recetas/postres/bizcocho/img/bizcocho-chocolate.jpg"
+      ]
+    },
+    "recetas/postres/bizcocho/bizcocho-zanahoria.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1235,
+      "exportedPath": "recetas/postres/bizcocho/bizcocho-zanahoria.html",
+      "dependencies": [
+        "recetas/postres/bizcocho/img/bizcocho-zanahoria.jpg",
+        "recetas/postres/bizcocho/img/bizcocho-zanahoria.jpg"
+      ]
+    },
+    "recetas/postres/bizcocho/bizcochon-joel.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1733,
+      "exportedPath": "recetas/postres/bizcocho/bizcochon-joel.html",
+      "dependencies": [
+        "recetas/postres/bizcocho/img/bizcochon-joel.jpg",
+        "recetas/postres/bizcocho/img/bizcochon-joel.jpg"
+      ]
+    },
+    "recetas/postres/bizcocho/brownie-choco.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1822,
+      "exportedPath": "recetas/postres/bizcocho/brownie-choco.html",
+      "dependencies": [
+        "recetas/postres/bizcocho/img/brownie-choco.jpg",
+        "recetas/postres/bizcocho/img/brownie-choco.jpg"
+      ]
+    },
+    "recetas/postres/bizcocho/browny-chocolate.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 2904,
+      "exportedPath": "recetas/postres/bizcocho/browny-chocolate.html",
+      "dependencies": [
+        "recetas/postres/bizcocho/img/brownie-chocolate.jpg",
+        "recetas/postres/bizcocho/img/brownie-chocolate.jpg"
+      ]
+    },
+    "recetas/postres/bizcocho/budin-banana.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1693,
+      "exportedPath": "recetas/postres/bizcocho/budin-banana.html",
+      "dependencies": [
+        "recetas/postres/bizcocho/img/budin-banana.jpg",
+        "recetas/postres/bizcocho/img/budin-banana.jpg"
+      ]
+    },
+    "recetas/postres/bizcocho/queque-con-yogur.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1587,
+      "exportedPath": "recetas/postres/bizcocho/queque-con-yogur.html",
+      "dependencies": [
+        "recetas/postres/bizcocho/img/queque-con-yogur.jpg",
+        "recetas/postres/bizcocho/img/queque-con-yogur.jpg"
+      ]
+    },
+    "recetas/postres/cremas/img/crema-americana.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 91624,
+      "exportedPath": "recetas/postres/cremas/img/crema-americana.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/cremas/img/crema-limon.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 69543,
+      "exportedPath": "recetas/postres/cremas/img/crema-limon.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/cremas/img/crema-pastelera.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 119100,
+      "exportedPath": "recetas/postres/cremas/img/crema-pastelera.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/cremas/img/crema-relleno-tarta.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 92854,
+      "exportedPath": "recetas/postres/cremas/img/crema-relleno-tarta.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/cremas/crema-americana.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1341,
+      "exportedPath": "recetas/postres/cremas/crema-americana.html",
+      "dependencies": [
+        "recetas/postres/cremas/img/crema-americana.jpg",
+        "recetas/postres/cremas/img/crema-americana.jpg"
+      ]
+    },
+    "recetas/postres/cremas/crema-limon.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1053,
+      "exportedPath": "recetas/postres/cremas/crema-limon.html",
+      "dependencies": [
+        "recetas/postres/cremas/img/crema-limon.jpg",
+        "recetas/postres/cremas/img/crema-limon.jpg"
+      ]
+    },
+    "recetas/postres/cremas/crema-pastelera.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1998,
+      "exportedPath": "recetas/postres/cremas/crema-pastelera.html",
+      "dependencies": [
+        "recetas/postres/cremas/img/crema-pastelera.jpg",
+        "recetas/postres/cremas/img/crema-pastelera.jpg"
+      ]
+    },
+    "recetas/postres/cremas/crema-relleno-tarta.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1391,
+      "exportedPath": "recetas/postres/cremas/crema-relleno-tarta.html",
+      "dependencies": [
+        "recetas/postres/cremas/img/crema-relleno-tarta.jpg",
+        "recetas/postres/cremas/img/crema-relleno-tarta.jpg"
+      ]
+    },
+    "recetas/postres/dulces/img/arroz-con-leche.webp": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 52136,
+      "exportedPath": "recetas/postres/dulces/img/arroz-con-leche.webp",
+      "dependencies": []
+    },
+    "recetas/postres/dulces/img/arroz-con-leche-coco.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 48462,
+      "exportedPath": "recetas/postres/dulces/img/arroz-con-leche-coco.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/dulces/img/barritas-cereales.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 211689,
+      "exportedPath": "recetas/postres/dulces/img/barritas-cereales.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/dulces/img/cocadas.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 133107,
+      "exportedPath": "recetas/postres/dulces/img/cocadas.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/dulces/img/fresones-a-la-crema.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 2816156,
+      "exportedPath": "recetas/postres/dulces/img/fresones-a-la-crema.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/dulces/img/gelatina-piña.webp": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 10252,
+      "exportedPath": "recetas/postres/dulces/img/gelatina-piña.webp",
+      "dependencies": []
+    },
+    "recetas/postres/dulces/img/leche-asada-canaria.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 91483,
+      "exportedPath": "recetas/postres/dulces/img/leche-asada-canaria.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/dulces/img/limones-rellenos.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 88593,
+      "exportedPath": "recetas/postres/dulces/img/limones-rellenos.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/dulces/img/pepas-con-frambuesa.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 46323,
+      "exportedPath": "recetas/postres/dulces/img/pepas-con-frambuesa.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/dulces/img/quesada.webp": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 57014,
+      "exportedPath": "recetas/postres/dulces/img/quesada.webp",
+      "dependencies": []
+    },
+    "recetas/postres/dulces/img/quesadilla.jpeg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 54020,
+      "exportedPath": "recetas/postres/dulces/img/quesadilla.jpeg",
+      "dependencies": []
+    },
+    "recetas/postres/dulces/img/sufle.png": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1309134,
+      "exportedPath": "recetas/postres/dulces/img/sufle.png",
+      "dependencies": []
+    },
+    "recetas/postres/dulces/img/tiramisu.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 281847,
+      "exportedPath": "recetas/postres/dulces/img/tiramisu.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/dulces/arroz-con-leche.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 927,
+      "exportedPath": "recetas/postres/dulces/arroz-con-leche.html",
+      "dependencies": [
+        "recetas/postres/dulces/img/arroz-con-leche.webp",
+        "recetas/postres/dulces/img/arroz-con-leche.webp"
+      ]
+    },
+    "recetas/postres/dulces/arroz-con-leche-coco.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1058,
+      "exportedPath": "recetas/postres/dulces/arroz-con-leche-coco.html",
+      "dependencies": [
+        "recetas/postres/dulces/img/arroz-con-leche-coco.jpg",
+        "recetas/postres/dulces/img/arroz-con-leche-coco.jpg"
+      ]
+    },
+    "recetas/postres/dulces/barritas-cereales.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1866,
+      "exportedPath": "recetas/postres/dulces/barritas-cereales.html",
+      "dependencies": [
+        "recetas/postres/dulces/img/barritas-cereales.jpg",
+        "recetas/postres/dulces/img/barritas-cereales.jpg"
+      ]
+    },
+    "recetas/postres/dulces/cocadas.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 706,
+      "exportedPath": "recetas/postres/dulces/cocadas.html",
+      "dependencies": [
+        "recetas/postres/dulces/img/cocadas.jpg",
+        "recetas/postres/dulces/img/cocadas.jpg"
+      ]
+    },
+    "recetas/postres/dulces/fresones-a-la-crema.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 942,
+      "exportedPath": "recetas/postres/dulces/fresones-a-la-crema.html",
+      "dependencies": [
+        "recetas/postres/dulces/img/fresones-a-la-crema.jpg",
+        "recetas/postres/dulces/img/fresones-a-la-crema.jpg"
+      ]
+    },
+    "recetas/postres/dulces/gelatina-piña.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1583,
+      "exportedPath": "recetas/postres/dulces/gelatina-piña.html",
+      "dependencies": [
+        "recetas/postres/dulces/img/gelatina-piña.webp",
+        "recetas/postres/dulces/img/gelatina-piña.webp"
+      ]
+    },
+    "recetas/postres/dulces/leche-asada-canaria.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1333,
+      "exportedPath": "recetas/postres/dulces/leche-asada-canaria.html",
+      "dependencies": [
+        "recetas/postres/dulces/img/leche-asada-canaria.jpg",
+        "recetas/postres/dulces/img/leche-asada-canaria.jpg"
+      ]
+    },
+    "recetas/postres/dulces/limones-rellenos.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1194,
+      "exportedPath": "recetas/postres/dulces/limones-rellenos.html",
+      "dependencies": [
+        "recetas/postres/dulces/img/limones-rellenos.jpg",
+        "recetas/postres/dulces/img/limones-rellenos.jpg"
+      ]
+    },
+    "recetas/postres/dulces/pepas-frambuesa.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1776,
+      "exportedPath": "recetas/postres/dulces/pepas-frambuesa.html",
+      "dependencies": []
+    },
+    "recetas/postres/dulces/quesada.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1483,
+      "exportedPath": "recetas/postres/dulces/quesada.html",
+      "dependencies": [
+        "recetas/postres/dulces/img/quesada.webp",
+        "recetas/postres/dulces/img/quesada.webp"
+      ]
+    },
+    "recetas/postres/dulces/quesadilla.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1296,
+      "exportedPath": "recetas/postres/dulces/quesadilla.html",
+      "dependencies": [
+        "recetas/postres/dulces/img/quesadilla.jpeg",
+        "recetas/postres/dulces/img/quesadilla.jpeg"
+      ]
+    },
+    "recetas/postres/dulces/sufle.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1648,
+      "exportedPath": "recetas/postres/dulces/sufle.html",
+      "dependencies": [
+        "recetas/postres/dulces/img/sufle.png",
+        "recetas/postres/dulces/img/sufle.png"
+      ]
+    },
+    "recetas/postres/dulces/tiramisu.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1839,
+      "exportedPath": "recetas/postres/dulces/tiramisu.html",
+      "dependencies": []
+    },
+    "recetas/postres/flanes/img/flan-cafe.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 130167,
+      "exportedPath": "recetas/postres/flanes/img/flan-cafe.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/flanes/img/flan-calabaza.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 181235,
+      "exportedPath": "recetas/postres/flanes/img/flan-calabaza.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/flanes/img/flan-limon.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 189516,
+      "exportedPath": "recetas/postres/flanes/img/flan-limon.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/flanes/flan-cafe.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1740,
+      "exportedPath": "recetas/postres/flanes/flan-cafe.html",
+      "dependencies": [
+        "recetas/postres/flanes/img/flan-cafe.jpg",
+        "recetas/postres/flanes/img/flan-cafe.jpg"
+      ]
+    },
+    "recetas/postres/flanes/flan-calabaza.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1839,
+      "exportedPath": "recetas/postres/flanes/flan-calabaza.html",
+      "dependencies": [
+        "recetas/postres/flanes/img/flan-calabaza.jpg",
+        "recetas/postres/flanes/img/flan-calabaza.jpg"
+      ]
+    },
+    "recetas/postres/flanes/flan-limon.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1694,
+      "exportedPath": "recetas/postres/flanes/flan-limon.html",
+      "dependencies": [
+        "recetas/postres/flanes/img/flan-limon.jpg",
+        "recetas/postres/flanes/img/flan-limon.jpg"
+      ]
+    },
+    "recetas/postres/flanes/flan-queso.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1682,
+      "exportedPath": "recetas/postres/flanes/flan-queso.html",
+      "dependencies": []
+    },
+    "recetas/postres/helados/img/helado-gelatina-fresa.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 38676,
+      "exportedPath": "recetas/postres/helados/img/helado-gelatina-fresa.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/helados/helado-gelatina-fresa.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1881,
+      "exportedPath": "recetas/postres/helados/helado-gelatina-fresa.html",
+      "dependencies": [
+        "recetas/postres/helados/img/helado-gelatina-fresa.jpg",
+        "recetas/postres/helados/img/helado-gelatina-fresa.jpg"
+      ]
+    },
+    "recetas/postres/mousses/img/mousse-chocolate.webp": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 176140,
+      "exportedPath": "recetas/postres/mousses/img/mousse-chocolate.webp",
+      "dependencies": []
+    },
+    "recetas/postres/mousses/img/mousse-gofio.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 127422,
+      "exportedPath": "recetas/postres/mousses/img/mousse-gofio.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/mousses/img/mousse-limon.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 165120,
+      "exportedPath": "recetas/postres/mousses/img/mousse-limon.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/mousses/img/mousse-manzana.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 35078,
+      "exportedPath": "recetas/postres/mousses/img/mousse-manzana.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/mousses/img/mousse-naranja.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 59735,
+      "exportedPath": "recetas/postres/mousses/img/mousse-naranja.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/mousses/mousse-chocolate.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1827,
+      "exportedPath": "recetas/postres/mousses/mousse-chocolate.html",
+      "dependencies": [
+        "recetas/postres/mousses/img/mousse-chocolate.webp",
+        "recetas/postres/mousses/img/mousse-chocolate.webp"
+      ]
+    },
+    "recetas/postres/mousses/mousse-gofio.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1447,
+      "exportedPath": "recetas/postres/mousses/mousse-gofio.html",
+      "dependencies": [
+        "recetas/postres/mousses/img/mousse-gofio.jpg",
+        "recetas/postres/mousses/img/mousse-gofio.jpg"
+      ]
+    },
+    "recetas/postres/mousses/mousse-limon.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1294,
+      "exportedPath": "recetas/postres/mousses/mousse-limon.html",
+      "dependencies": [
+        "recetas/postres/mousses/img/mousse-limon.jpg",
+        "recetas/postres/mousses/img/mousse-limon.jpg"
+      ]
+    },
+    "recetas/postres/mousses/mousse-manzana.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1550,
+      "exportedPath": "recetas/postres/mousses/mousse-manzana.html",
+      "dependencies": [
+        "recetas/postres/mousses/img/mousse-manzana.jpg",
+        "recetas/postres/mousses/img/mousse-manzana.jpg"
+      ]
+    },
+    "recetas/postres/mousses/mousse-naranja.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1818,
+      "exportedPath": "recetas/postres/mousses/mousse-naranja.html",
+      "dependencies": [
+        "recetas/postres/mousses/img/mousse-naranja.jpg",
+        "recetas/postres/mousses/img/mousse-naranja.jpg"
+      ]
+    },
+    "recetas/postres/tartas/img/tarta-calabaza-1.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 135841,
+      "exportedPath": "recetas/postres/tartas/img/tarta-calabaza-1.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/tartas/img/tarta-calabaza-2.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 235171,
+      "exportedPath": "recetas/postres/tartas/img/tarta-calabaza-2.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/tartas/img/tarta-de-manzana-y-hojaldre.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 149115,
+      "exportedPath": "recetas/postres/tartas/img/tarta-de-manzana-y-hojaldre.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/tartas/img/tarta-kanikama-puerro.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 80336,
+      "exportedPath": "recetas/postres/tartas/img/tarta-kanikama-puerro.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/tartas/img/tarta-manzana.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 167812,
+      "exportedPath": "recetas/postres/tartas/img/tarta-manzana.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/tartas/img/tarta-piña.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 109814,
+      "exportedPath": "recetas/postres/tartas/img/tarta-piña.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/tartas/img/tarta-queso.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 240427,
+      "exportedPath": "recetas/postres/tartas/img/tarta-queso.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/tartas/img/tarta-ricota.jpg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 230528,
+      "exportedPath": "recetas/postres/tartas/img/tarta-ricota.jpg",
+      "dependencies": []
+    },
+    "recetas/postres/tartas/tarta-calabaza-1.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 2147,
+      "exportedPath": "recetas/postres/tartas/tarta-calabaza-1.html",
+      "dependencies": [
+        "recetas/postres/tartas/img/tarta-calabaza-1.jpg",
+        "recetas/postres/tartas/img/tarta-calabaza-1.jpg"
+      ]
+    },
+    "recetas/postres/tartas/tarta-calabaza-2.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1720,
+      "exportedPath": "recetas/postres/tartas/tarta-calabaza-2.html",
+      "dependencies": [
+        "recetas/postres/tartas/img/tarta-calabaza-2.jpg",
+        "recetas/postres/tartas/img/tarta-calabaza-2.jpg"
+      ]
+    },
+    "recetas/postres/tartas/tarta-kanikama-puerro.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1875,
+      "exportedPath": "recetas/postres/tartas/tarta-kanikama-puerro.html",
+      "dependencies": [
+        "recetas/postres/tartas/img/tarta-kanikama-puerro.jpg",
+        "recetas/postres/tartas/img/tarta-kanikama-puerro.jpg"
+      ]
+    },
+    "recetas/postres/tartas/tarta-manzana.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1769,
+      "exportedPath": "recetas/postres/tartas/tarta-manzana.html",
+      "dependencies": [
+        "recetas/postres/tartas/img/tarta-de-manzana-y-hojaldre.jpg",
+        "recetas/postres/tartas/img/tarta-de-manzana-y-hojaldre.jpg"
+      ]
+    },
+    "recetas/postres/tartas/tarta-manzana-hojaldre.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1313,
+      "exportedPath": "recetas/postres/tartas/tarta-manzana-hojaldre.html",
+      "dependencies": []
+    },
+    "recetas/postres/tartas/tarta-piña.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1660,
+      "exportedPath": "recetas/postres/tartas/tarta-piña.html",
+      "dependencies": [
+        "recetas/postres/tartas/img/tarta-piña.jpg",
+        "recetas/postres/tartas/img/tarta-piña.jpg"
+      ]
+    },
+    "recetas/postres/tartas/tarta-queso.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1484,
+      "exportedPath": "recetas/postres/tartas/tarta-queso.html",
+      "dependencies": [
+        "recetas/postres/tartas/img/tarta-queso.jpg",
+        "recetas/postres/tartas/img/tarta-queso.jpg"
+      ]
+    },
+    "recetas/postres/tartas/tarta-ricota.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1982,
+      "exportedPath": "recetas/postres/tartas/tarta-ricota.html",
+      "dependencies": [
+        "recetas/postres/tartas/img/tarta-ricota.jpg",
+        "recetas/postres/tartas/img/tarta-ricota.jpg"
+      ]
+    },
+    "recetas/listado-comidas.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 2766,
+      "exportedPath": "recetas/listado-comidas.html",
+      "dependencies": []
+    },
+    "recetas/menus.md": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 2776,
+      "exportedPath": "recetas/menus.html",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 100984,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 9208,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 130471,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1719685691836,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
