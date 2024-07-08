@@ -43,8 +43,15 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/0/Knowledge/Knowledge-vault/obsidian-vault/CookingRecipes/recetas_españolas/web",
+  "exportPath": "/0/Knowledge/Knowledge-vault/obsidian-vault/CookingRecipes/recetas_españolas/docs",
   "filesToExport": [
-    []
+    [
+      "recetas/acompañamiento",
+      "recetas/bebidas",
+      "recetas/platos",
+      "recetas/postres",
+      "recetas/index.md",
+      "recetas/menus.md"
+    ]
   ]
 }

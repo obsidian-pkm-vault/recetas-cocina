@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[recetas_españolas]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>recetas_españolas</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 29 Jun 2024 18:28:22 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 29 Jun 2024 18:28:11 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Pan Blanco]]></title><description><![CDATA[ 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[recetas_españolas]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>recetas_españolas</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 08 Jul 2024 01:47:52 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 08 Jul 2024 01:47:41 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Pan Blanco]]></title><description><![CDATA[ 
  <br><br><img alt="Imagen del plato" src="recetas/acompañamiento/panes/img/pan-blanco.jpg"><br><br>Un delicioso pan blanco casero, perfecto para cualquier ocasión. <br><br>
 <br>12gr de levadura fresca
 <br>400ml de agua tibia<a class="internal-link" data-href="#footnote1" href="about:blank#footnote1" target="_self" rel="noopener">1</a>
@@ -3633,130 +3633,127 @@ Dejar enfriar antes de servir.
 
 <br><br>
 Esta tarta de ricota es perfecta como postre o para acompañar una merienda. El relleno suave de ricota con un toque de vainilla y azúcar la hace irresistible. Puedes personalizarla añadiendo frutas secas o decorándola con una capa de azúcar glas por encima antes de servir. ¡Disfruta de esta delicia casera!
-]]></description><link>recetas/postres/tartas/tarta-ricota.html</link><guid isPermaLink="false">recetas/postres/tartas/tarta-ricota.md</guid><pubDate>Sat, 29 Jun 2024 18:04:16 GMT</pubDate><enclosure url="recetas/postres/tartas/img/tarta-ricota.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;recetas/postres/tartas/img/tarta-ricota.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Listado de comidas]]></title><description><![CDATA[ 
+]]></description><link>recetas/postres/tartas/tarta-ricota.html</link><guid isPermaLink="false">recetas/postres/tartas/tarta-ricota.md</guid><pubDate>Sat, 29 Jun 2024 18:04:16 GMT</pubDate><enclosure url="recetas/postres/tartas/img/tarta-ricota.jpg" length="0" type="image/jpeg"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;recetas/postres/tartas/img/tarta-ricota.jpg&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Index]]></title><description><![CDATA[ 
  <br><br><br><br>
-<br><a data-href="pan-blanco.md" href="recetas/acompañamiento/panes/pan-blanco.html" class="internal-link" target="_self" rel="noopener">pan-blanco.md</a>
-<br><a data-href="pan-chipa.md" href="recetas/acompañamiento/panes/pan-chipa.html" class="internal-link" target="_self" rel="noopener">pan-chipa.md</a>
-<br><a data-href="panes-sin-amasar.md" href="panes-sin-amasar" class="internal-link" target="_self" rel="noopener">panes-sin-amasar.md</a>
-<br><a data-href="pan-integral.md" href="recetas/acompañamiento/panes/pan-integral.html" class="internal-link" target="_self" rel="noopener">pan-integral.md</a>
-<br><a data-href="pan-masa-madre.md" href="recetas/acompañamiento/panes/pan-masa-madre.html" class="internal-link" target="_self" rel="noopener">pan-masa-madre.md</a>
-<br><a data-href="pan-sin-amasar.md" href="recetas/acompañamiento/panes/pan-sin-amasar.html" class="internal-link" target="_self" rel="noopener">pan-sin-amasar.md</a>
-<br><a data-href="pan-trigo-sarraceno.md" href="recetas/acompañamiento/panes/pan-trigo-sarraceno.html" class="internal-link" target="_self" rel="noopener">pan-trigo-sarraceno.md</a>
-<br><a data-href="tortas.md" href="tortas" class="internal-link" target="_self" rel="noopener">tortas.md</a>
+<br><a data-href="pan-blanco" href="recetas/acompañamiento/panes/pan-blanco.html" class="internal-link" target="_self" rel="noopener">pan-blanco</a>
+<br><a data-href="pan-chipa" href="recetas/acompañamiento/panes/pan-chipa.html" class="internal-link" target="_self" rel="noopener">pan-chipa</a>
+<br><a data-href="pan-sin-amasar" href="recetas/acompañamiento/panes/pan-sin-amasar.html" class="internal-link" target="_self" rel="noopener">pan-sin-amasar</a>
+<br><a data-href="pan-integral" href="recetas/acompañamiento/panes/pan-integral.html" class="internal-link" target="_self" rel="noopener">pan-integral</a>
+<br><a data-href="pan-masa-madre" href="recetas/acompañamiento/panes/pan-masa-madre.html" class="internal-link" target="_self" rel="noopener">pan-masa-madre</a>
+<br><a data-href="pan-sin-amasar" href="recetas/acompañamiento/panes/pan-sin-amasar.html" class="internal-link" target="_self" rel="noopener">pan-sin-amasar</a>
+<br><a data-href="pan-trigo-sarraceno" href="recetas/acompañamiento/panes/pan-trigo-sarraceno.html" class="internal-link" target="_self" rel="noopener">pan-trigo-sarraceno</a>
+<br><a data-href="pan-torta" href="recetas/acompañamiento/panes/pan-torta.html" class="internal-link" target="_self" rel="noopener">pan-torta</a>
 <br><br>
-<br><a data-href="mayonesa.md" href="recetas/acompañamiento/salsas/mayonesa.html" class="internal-link" target="_self" rel="noopener">mayonesa.md</a>
-<br><a data-href="mozzarella.md" href="recetas/acompañamiento/salsas/mozzarella.html" class="internal-link" target="_self" rel="noopener">mozzarella.md</a>
-<br><a data-href="salsa-tartara.md" href="recetas/acompañamiento/salsas/salsa-tartara.html" class="internal-link" target="_self" rel="noopener">salsa-tartara.md</a>
+<br><a data-href="mayonesa" href="recetas/acompañamiento/salsas/mayonesa.html" class="internal-link" target="_self" rel="noopener">mayonesa</a>
+<br><a data-href="mozzarella" href="recetas/acompañamiento/salsas/mozzarella.html" class="internal-link" target="_self" rel="noopener">mozzarella</a>
+<br><a data-href="salsa-tartara" href="recetas/acompañamiento/salsas/salsa-tartara.html" class="internal-link" target="_self" rel="noopener">salsa-tartara</a>
 <br><br>
-<br><a data-href="cafes.md" href="recetas/bebidas/cafes.html" class="internal-link" target="_self" rel="noopener">cafes.md</a>
-<br><a data-href="cerveza-dry-stout.md" href="recetas/bebidas/cerveza-dry-stout.html" class="internal-link" target="_self" rel="noopener">cerveza-dry-stout.md</a>
-<br><a data-href="cerveza-mandioca-stout.md" href="recetas/bebidas/cerveza-mandioca-stout.html" class="internal-link" target="_self" rel="noopener">cerveza-mandioca-stout.md</a>
-<br><a data-href="cheese_with_wine.md" href="recetas/bebidas/cheese_with_wine.html" class="internal-link" target="_self" rel="noopener">cheese_with_wine.md</a>
-<br><a data-href="jugos.md" href="recetas/bebidas/jugos.html" class="internal-link" target="_self" rel="noopener">jugos.md</a>
-<br><a data-href="wine_with_cheese.md" href="recetas/bebidas/wine_with_cheese.html" class="internal-link" target="_self" rel="noopener">wine_with_cheese.md</a>
+<br><a data-href="cafes" href="recetas/bebidas/cafes.html" class="internal-link" target="_self" rel="noopener">cafes</a>
+<br><a data-href="cerveza-dry-stout" href="recetas/bebidas/cerveza-dry-stout.html" class="internal-link" target="_self" rel="noopener">cerveza-dry-stout</a>
+<br><a data-href="cerveza-mandioca-stout" href="recetas/bebidas/cerveza-mandioca-stout.html" class="internal-link" target="_self" rel="noopener">cerveza-mandioca-stout</a>
+<br><a data-href="cheese_with_wine" href="recetas/bebidas/cheese_with_wine.html" class="internal-link" target="_self" rel="noopener">cheese_with_wine</a>
+<br><a data-href="jugos" href="recetas/bebidas/jugos.html" class="internal-link" target="_self" rel="noopener">jugos</a>
+<br><a data-href="wine_with_cheese" href="recetas/bebidas/wine_with_cheese.html" class="internal-link" target="_self" rel="noopener">wine_with_cheese</a>
 <br><br>
-<br><a data-href="paella.md" href="recetas/platos/arroces/paella.html" class="internal-link" target="_self" rel="noopener">paella.md</a>
-<br><a data-href="patatas-paletilla.md" href="recetas/platos/papas/patatas-paletilla.html" class="internal-link" target="_self" rel="noopener">patatas-paletilla.md</a>
+<br><a data-href="paella" href="recetas/platos/arroces/paella.html" class="internal-link" target="_self" rel="noopener">paella</a>
+<br><a data-href="patatas-paletilla" href="recetas/platos/papas/patatas-paletilla.html" class="internal-link" target="_self" rel="noopener">patatas-paletilla</a>
 <br><br>
-<br><a data-href="fiambre-casero-pavo.md" href="recetas/platos/carnes/fiambre-casero-pavo.html" class="internal-link" target="_self" rel="noopener">fiambre-casero-pavo.md</a>
-<br><a data-href="filetes-sorpresa.md" href="filetes-sorpresa" class="internal-link" target="_self" rel="noopener">filetes-sorpresa.md</a>
-<br><a data-href="milanesa-napolitana.md" href="recetas/platos/carnes/milanesa-napolitana.html" class="internal-link" target="_self" rel="noopener">milanesa-napolitana.md</a>
-<br><a data-href="pechuga-con-puerros.md" href="recetas/platos/carnes/pechuga-con-puerros.html" class="internal-link" target="_self" rel="noopener">pechuga-con-puerros.md</a>
-<br><a data-href="pechuga-pavo-nueces.md" href="recetas/platos/carnes/pechuga-pavo-nueces.html" class="internal-link" target="_self" rel="noopener">pechuga-pavo-nueces.md</a>
-<br><a data-href="pollo-al-curry.md" href="recetas/platos/carnes/pollo-al-curry.html" class="internal-link" target="_self" rel="noopener">pollo-al-curry.md</a>
-<br><a data-href="pollo-cazuela.md" href="recetas/platos/carnes/pollo-cazuela.html" class="internal-link" target="_self" rel="noopener">pollo-cazuela.md</a>
-<br><a data-href="quiche-lorraine.md" href="recetas/platos/carnes/quiche-lorraine.html" class="internal-link" target="_self" rel="noopener">quiche-lorraine.md</a>
+<br><a data-href="fiambre-casero-pavo" href="recetas/platos/carnes/fiambre-casero-pavo.html" class="internal-link" target="_self" rel="noopener">fiambre-casero-pavo</a>
+<br><a data-href="filetes-ternera" href="recetas/platos/carnes/filetes-ternera.html" class="internal-link" target="_self" rel="noopener">filetes-ternera</a>
+<br><a data-href="milanesa-napolitana" href="recetas/platos/carnes/milanesa-napolitana.html" class="internal-link" target="_self" rel="noopener">milanesa-napolitana</a>
+<br><a data-href="pechuga-con-puerros" href="recetas/platos/carnes/pechuga-con-puerros.html" class="internal-link" target="_self" rel="noopener">pechuga-con-puerros</a>
+<br><a data-href="pechuga-pavo-nueces" href="recetas/platos/carnes/pechuga-pavo-nueces.html" class="internal-link" target="_self" rel="noopener">pechuga-pavo-nueces</a>
+<br><a data-href="pollo-al-curry" href="recetas/platos/carnes/pollo-al-curry.html" class="internal-link" target="_self" rel="noopener">pollo-al-curry</a>
+<br><a data-href="pollo-cazuela" href="recetas/platos/carnes/pollo-cazuela.html" class="internal-link" target="_self" rel="noopener">pollo-cazuela</a>
+<br><a data-href="quiche-lorraine" href="recetas/platos/carnes/quiche-lorraine.html" class="internal-link" target="_self" rel="noopener">quiche-lorraine</a>
 <br><br>
-<br><a data-href="ensalada-americana.md" href="recetas/platos/ensaladas/ensalada-americana.html" class="internal-link" target="_self" rel="noopener">ensalada-americana.md</a>
-<br><a data-href="ensalada-arroz.md" href="recetas/platos/ensaladas/ensalada-arroz.html" class="internal-link" target="_self" rel="noopener">ensalada-arroz.md</a>
-<br><a data-href="ensalada-estilo-ale.md" href="recetas/platos/ensaladas/ensalada-estilo-ale.html" class="internal-link" target="_self" rel="noopener">ensalada-estilo-ale.md</a>
-<br><a data-href="ensalada-paraguaya.md" href="recetas/platos/ensaladas/ensalada-paraguaya.html" class="internal-link" target="_self" rel="noopener">ensalada-paraguaya.md</a>
-<br><a data-href="ensalada-salsa-yogur.md" href="ensalada-salsa-yogur" class="internal-link" target="_self" rel="noopener">ensalada-salsa-yogur.md</a>
+<br><a data-href="ensalada-americana" href="recetas/platos/ensaladas/ensalada-americana.html" class="internal-link" target="_self" rel="noopener">ensalada-americana</a>
+<br><a data-href="ensalada-arroz" href="recetas/platos/ensaladas/ensalada-arroz.html" class="internal-link" target="_self" rel="noopener">ensalada-arroz</a>
+<br><a data-href="ensalada-estilo-ale" href="recetas/platos/ensaladas/ensalada-estilo-ale.html" class="internal-link" target="_self" rel="noopener">ensalada-estilo-ale</a>
+<br><a data-href="ensalada-paraguaya" href="recetas/platos/ensaladas/ensalada-paraguaya.html" class="internal-link" target="_self" rel="noopener">ensalada-paraguaya</a>
 <br><br>
-<br><a data-href="crema-calabacin-queso.md" href="recetas/platos/guiso-potaje/crema-calabacin-queso.html" class="internal-link" target="_self" rel="noopener">crema-calabacin-queso.md</a>
-<br><a data-href="guiso-lentejas.md" href="recetas/platos/guiso-potaje/guiso-lentejas.html" class="internal-link" target="_self" rel="noopener">guiso-lentejas.md</a>
-<br><a data-href="guiso-lentejas-veg.md" href="recetas/platos/guiso-potaje/guiso-lentejas-veg.html" class="internal-link" target="_self" rel="noopener">guiso-lentejas-veg.md</a>
-<br><a data-href="locro.md" href="recetas/platos/guiso-potaje/locro.html" class="internal-link" target="_self" rel="noopener">locro.md</a>
-<br><a data-href="potaje-blanco.md" href="recetas/platos/guiso-potaje/potaje-blanco.html" class="internal-link" target="_self" rel="noopener">potaje-blanco.md</a>
-<br><a data-href="sopa-ajo.md" href="recetas/platos/guiso-potaje/sopa-ajo.html" class="internal-link" target="_self" rel="noopener">sopa-ajo.md</a>
-<br><a data-href="sopa-carne.md" href="recetas/platos/guiso-potaje/sopa-carne.html" class="internal-link" target="_self" rel="noopener">sopa-carne.md</a>
-<br><a data-href="sopa-cebolla.md" href="recetas/platos/guiso-potaje/sopa-cebolla.html" class="internal-link" target="_self" rel="noopener">sopa-cebolla.md</a>
-<br><a data-href="sopa-san-pancracio.md" href="recetas/platos/guiso-potaje/sopa-san-pancracio.html" class="internal-link" target="_self" rel="noopener">sopa-san-pancracio.md</a>
+<br><a data-href="crema-calabacin-queso" href="recetas/platos/guiso-potaje/crema-calabacin-queso.html" class="internal-link" target="_self" rel="noopener">crema-calabacin-queso</a>
+<br><a data-href="guiso-lentejas" href="recetas/platos/guiso-potaje/guiso-lentejas.html" class="internal-link" target="_self" rel="noopener">guiso-lentejas</a>
+<br><a data-href="guiso-lentejas-veg" href="recetas/platos/guiso-potaje/guiso-lentejas-veg.html" class="internal-link" target="_self" rel="noopener">guiso-lentejas-veg</a>
+<br><a data-href="locro" href="recetas/platos/guiso-potaje/locro.html" class="internal-link" target="_self" rel="noopener">locro</a>
+<br><a data-href="potaje-blanco" href="recetas/platos/guiso-potaje/potaje-blanco.html" class="internal-link" target="_self" rel="noopener">potaje-blanco</a>
+<br><a data-href="sopa-ajo" href="recetas/platos/guiso-potaje/sopa-ajo.html" class="internal-link" target="_self" rel="noopener">sopa-ajo</a>
+<br><a data-href="sopa-carne" href="recetas/platos/guiso-potaje/sopa-carne.html" class="internal-link" target="_self" rel="noopener">sopa-carne</a>
+<br><a data-href="sopa-cebolla" href="recetas/platos/guiso-potaje/sopa-cebolla.html" class="internal-link" target="_self" rel="noopener">sopa-cebolla</a>
+<br><a data-href="sopa-san-pancracio" href="recetas/platos/guiso-potaje/sopa-san-pancracio.html" class="internal-link" target="_self" rel="noopener">sopa-san-pancracio</a>
 <br><br>
-<br><a data-href="espaguetis-carbonara.md" href="recetas/platos/pastas/espaguetis-carbonara.html" class="internal-link" target="_self" rel="noopener">espaguetis-carbonara.md</a>
-<br><a data-href="pizza_making.md" href="pizza_making" class="internal-link" target="_self" rel="noopener">pizza_making.md</a>
+<br><a data-href="espaguetis-carbonara" href="recetas/platos/pastas/espaguetis-carbonara.html" class="internal-link" target="_self" rel="noopener">espaguetis-carbonara</a>
+<br><a data-href="pizza" href="recetas/platos/pizzas/pizza.html" class="internal-link" target="_self" rel="noopener">pizza</a>
 <br><br>
-<br><a data-href="bacalao.md" href="recetas/platos/pescados/bacalao.html" class="internal-link" target="_self" rel="noopener">bacalao.md</a>
-<br><a data-href="calamares-rellenos.md" href="recetas/platos/pescados/calamares-rellenos.html" class="internal-link" target="_self" rel="noopener">calamares-rellenos.md</a>
-<br><a data-href="cazuela-pescado.md" href="recetas/platos/pescados/cazuela-pescado.html" class="internal-link" target="_self" rel="noopener">cazuela-pescado.md</a>
-<br><a data-href="colchon-arvejas.md" href="recetas/platos/pescados/colchon-arvejas.html" class="internal-link" target="_self" rel="noopener">colchon-arvejas.md</a>
-<br><a data-href="hojladre-gambas.md" href="hojladre-gambas" class="internal-link" target="_self" rel="noopener">hojladre-gambas.md</a>
-<br><a data-href="pescado-salsa-guisantes.md" href="recetas/platos/pescados/pescado-salsa-guisantes.html" class="internal-link" target="_self" rel="noopener">pescado-salsa-guisantes.md</a>
-<br><a data-href="pudin-pescado.md" href="recetas/platos/pescados/pudin-pescado.html" class="internal-link" target="_self" rel="noopener">pudin-pescado.md</a>
-<br><a data-href="rilletes-sardinas.md" href="recetas/platos/pescados/rilletes-sardinas.html" class="internal-link" target="_self" rel="noopener">rilletes-sardinas.md</a>
-<br><a data-href="salmon-marinado.md" href="recetas/platos/pescados/salmon-marinado.html" class="internal-link" target="_self" rel="noopener">salmon-marinado.md</a>
+<br><a data-href="bacalao" href="recetas/platos/pescados/bacalao.html" class="internal-link" target="_self" rel="noopener">bacalao</a>
+<br><a data-href="calamares-rellenos" href="recetas/platos/pescados/calamares-rellenos.html" class="internal-link" target="_self" rel="noopener">calamares-rellenos</a>
+<br><a data-href="cazuela-pescado" href="recetas/platos/pescados/cazuela-pescado.html" class="internal-link" target="_self" rel="noopener">cazuela-pescado</a>
+<br><a data-href="colchon-arvejas" href="recetas/platos/pescados/colchon-arvejas.html" class="internal-link" target="_self" rel="noopener">colchon-arvejas</a>
+<br><a data-href="hojladre-gambas" href="hojladre-gambas" class="internal-link" target="_self" rel="noopener">hojladre-gambas</a>
+<br><a data-href="pescado-salsa-guisantes" href="recetas/platos/pescados/pescado-salsa-guisantes.html" class="internal-link" target="_self" rel="noopener">pescado-salsa-guisantes</a>
+<br><a data-href="pudin-pescado" href="recetas/platos/pescados/pudin-pescado.html" class="internal-link" target="_self" rel="noopener">pudin-pescado</a>
+<br><a data-href="rilletes-sardinas" href="recetas/platos/pescados/rilletes-sardinas.html" class="internal-link" target="_self" rel="noopener">rilletes-sardinas</a>
+<br><a data-href="salmon-marinado" href="recetas/platos/pescados/salmon-marinado.html" class="internal-link" target="_self" rel="noopener">salmon-marinado</a>
 <br><br>
-<br><a data-href="acelgas-con-adobo.md" href="recetas/platos/verduras/acelgas-con-adobo.html" class="internal-link" target="_self" rel="noopener">acelgas-con-adobo.md</a>
-<br><a data-href="acelgas-guisadas.md" href="recetas/platos/verduras/acelgas-guisadas.html" class="internal-link" target="_self" rel="noopener">acelgas-guisadas.md</a>
-<br><a data-href="brota.md" href="recetas/platos/pescados/brota.html" class="internal-link" target="_self" rel="noopener">brota.md</a>
-<br><a data-href="col-con-bechamel.md" href="recetas/platos/verduras/col-con-bechamel.html" class="internal-link" target="_self" rel="noopener">col-con-bechamel.md</a>
-<br><a data-href="coliflor-azafran.md" href="coliflor-azafran" class="internal-link" target="_self" rel="noopener">coliflor-azafran.md</a>
-<br><a data-href="espinacas-con-gambas.md" href="recetas/platos/verduras/espinacas-con-gambas.html" class="internal-link" target="_self" rel="noopener">espinacas-con-gambas.md</a>
-<br><a data-href="judias-verdes.md" href="judias-verdes" class="internal-link" target="_self" rel="noopener">judias-verdes.md</a>
-<br><a data-href="pudin-verduras.md" href="recetas/platos/verduras/pudin-verduras.html" class="internal-link" target="_self" rel="noopener">pudin-verduras.md</a>
-<br><a data-href="verdura-pasta.md" href="recetas/platos/verduras/verdura-pasta.html" class="internal-link" target="_self" rel="noopener">verdura-pasta.md</a>
+<br><a data-href="acelgas-con-adobo" href="recetas/platos/verduras/acelgas-con-adobo.html" class="internal-link" target="_self" rel="noopener">acelgas-con-adobo</a>
+<br><a data-href="acelgas-guisadas" href="recetas/platos/verduras/acelgas-guisadas.html" class="internal-link" target="_self" rel="noopener">acelgas-guisadas</a>
+<br><a data-href="brota" href="recetas/platos/pescados/brota.html" class="internal-link" target="_self" rel="noopener">brota</a>
+<br><a data-href="col-con-bechamel" href="recetas/platos/verduras/col-con-bechamel.html" class="internal-link" target="_self" rel="noopener">col-con-bechamel</a>
+<br><a data-href="col-con-azafran" href="recetas/platos/verduras/col-con-azafran.html" class="internal-link" target="_self" rel="noopener">col-con-azafran</a>
+<br><a data-href="espinacas-con-gambas" href="recetas/platos/verduras/espinacas-con-gambas.html" class="internal-link" target="_self" rel="noopener">espinacas-con-gambas</a>
+<br><a data-href="judias-verdes-con-papas" href="recetas/platos/verduras/judias-verdes-con-papas.html" class="internal-link" target="_self" rel="noopener">judias-verdes-con-papas</a>
+<br><a data-href="pudin-verduras" href="recetas/platos/verduras/pudin-verduras.html" class="internal-link" target="_self" rel="noopener">pudin-verduras</a>
+<br><a data-href="verdura-pasta" href="recetas/platos/verduras/verdura-pasta.html" class="internal-link" target="_self" rel="noopener">verdura-pasta</a>
+<br><br><br>
+<br><a data-href="bizcocho-chocolate" href="recetas/postres/bizcocho/bizcocho-chocolate.html" class="internal-link" target="_self" rel="noopener">bizcocho-chocolate</a>
+<br><a data-href="bizcocho" href="recetas/postres/bizcocho/bizcocho.html" class="internal-link" target="_self" rel="noopener">bizcocho</a>
+<br><a data-href="bizcochon-joel" href="recetas/postres/bizcocho/bizcochon-joel.html" class="internal-link" target="_self" rel="noopener">bizcochon-joel</a>
+<br><a data-href="bizcocho-zanahoria" href="recetas/postres/bizcocho/bizcocho-zanahoria.html" class="internal-link" target="_self" rel="noopener">bizcocho-zanahoria</a>
+<br><a data-href="brownie-choco" href="recetas/postres/bizcocho/brownie-choco.html" class="internal-link" target="_self" rel="noopener">brownie-choco</a>
+<br><a data-href="browny-chocolate" href="recetas/postres/bizcocho/browny-chocolate.html" class="internal-link" target="_self" rel="noopener">browny-chocolate</a>
+<br><a data-href="budin-banana" href="recetas/postres/bizcocho/budin-banana.html" class="internal-link" target="_self" rel="noopener">budin-banana</a>
 <br><br>
-<br><a data-href="arroz-con-leche-coco.md" href="recetas/postres/dulces/arroz-con-leche-coco.html" class="internal-link" target="_self" rel="noopener">arroz-con-leche-coco.md</a>
-<br><a data-href="arroz-con-leche.md" href="recetas/postres/dulces/arroz-con-leche.html" class="internal-link" target="_self" rel="noopener">arroz-con-leche.md</a>
-<br><a data-href="barritas-cereales.md" href="recetas/postres/dulces/barritas-cereales.html" class="internal-link" target="_self" rel="noopener">barritas-cereales.md</a>
-<br><a data-href="cocadas.md" href="recetas/postres/dulces/cocadas.html" class="internal-link" target="_self" rel="noopener">cocadas.md</a>
-<br><a data-href="fresones-a-la-crema.md" href="recetas/postres/dulces/fresones-a-la-crema.html" class="internal-link" target="_self" rel="noopener">fresones-a-la-crema.md</a>
-<br><a data-href="gelatina-piña.md" href="recetas/postres/dulces/gelatina-piña.html" class="internal-link" target="_self" rel="noopener">gelatina-piña.md</a>
-<br><a data-href="leche-asada-canaria.md" href="recetas/postres/dulces/leche-asada-canaria.html" class="internal-link" target="_self" rel="noopener">leche-asada-canaria.md</a>
-<br><a data-href="limones-rellenos.md" href="recetas/postres/dulces/limones-rellenos.html" class="internal-link" target="_self" rel="noopener">limones-rellenos.md</a>
-<br><a data-href="manzana-hojaldre.md" href="manzana-hojaldre" class="internal-link" target="_self" rel="noopener">manzana-hojaldre.md</a>
-<br><a data-href="pepas-frambuesa.md" href="recetas/postres/dulces/pepas-frambuesa.html" class="internal-link" target="_self" rel="noopener">pepas-frambuesa.md</a>
-<br><a data-href="quesada.md" href="recetas/postres/dulces/quesada.html" class="internal-link" target="_self" rel="noopener">quesada.md</a>
-<br><a data-href="quesadilla.md" href="recetas/postres/dulces/quesadilla.html" class="internal-link" target="_self" rel="noopener">quesadilla.md</a>
-<br><a data-href="souffe.md" href="souffe" class="internal-link" target="_self" rel="noopener">souffe.md</a>
-<br><a data-href="tiramisu.md" href="recetas/postres/dulces/tiramisu.html" class="internal-link" target="_self" rel="noopener">tiramisu.md</a>
+<br><a data-href="crema-americana" href="recetas/postres/cremas/crema-americana.html" class="internal-link" target="_self" rel="noopener">crema-americana</a>
+<br><a data-href="crema-limon" href="recetas/postres/cremas/crema-limon.html" class="internal-link" target="_self" rel="noopener">crema-limon</a>
+<br><a data-href="crema-pastelera" href="recetas/postres/cremas/crema-pastelera.html" class="internal-link" target="_self" rel="noopener">crema-pastelera</a>
+<br><a data-href="crema-relleno-tarta" href="recetas/postres/cremas/crema-relleno-tarta.html" class="internal-link" target="_self" rel="noopener">crema-relleno-tarta</a>
 <br><br>
-<br><a data-href="bizcocho-chocolate.md" href="recetas/postres/bizcocho/bizcocho-chocolate.html" class="internal-link" target="_self" rel="noopener">bizcocho-chocolate.md</a>
-<br><a data-href="bizcocho.md" href="recetas/postres/bizcocho/bizcocho.html" class="internal-link" target="_self" rel="noopener">bizcocho.md</a>
-<br><a data-href="bizcochon-joel.md" href="recetas/postres/bizcocho/bizcochon-joel.html" class="internal-link" target="_self" rel="noopener">bizcochon-joel.md</a>
-<br><a data-href="bizcocho-zanahoria.md" href="recetas/postres/bizcocho/bizcocho-zanahoria.html" class="internal-link" target="_self" rel="noopener">bizcocho-zanahoria.md</a>
-<br><a data-href="brownie-choco.md" href="recetas/postres/bizcocho/brownie-choco.html" class="internal-link" target="_self" rel="noopener">brownie-choco.md</a>
-<br><a data-href="browny-chocolate.md" href="recetas/postres/bizcocho/browny-chocolate.html" class="internal-link" target="_self" rel="noopener">browny-chocolate.md</a>
-<br><a data-href="budin-banana.md" href="recetas/postres/bizcocho/budin-banana.html" class="internal-link" target="_self" rel="noopener">budin-banana.md</a>
+<br><a data-href="arroz-con-leche-coco" href="recetas/postres/dulces/arroz-con-leche-coco.html" class="internal-link" target="_self" rel="noopener">arroz-con-leche-coco</a>
+<br><a data-href="arroz-con-leche" href="recetas/postres/dulces/arroz-con-leche.html" class="internal-link" target="_self" rel="noopener">arroz-con-leche</a>
+<br><a data-href="barritas-cereales" href="recetas/postres/dulces/barritas-cereales.html" class="internal-link" target="_self" rel="noopener">barritas-cereales</a>
+<br><a data-href="cocadas" href="recetas/postres/dulces/cocadas.html" class="internal-link" target="_self" rel="noopener">cocadas</a>
+<br><a data-href="fresones-a-la-crema" href="recetas/postres/dulces/fresones-a-la-crema.html" class="internal-link" target="_self" rel="noopener">fresones-a-la-crema</a>
+<br><a data-href="gelatina-piña" href="recetas/postres/dulces/gelatina-piña.html" class="internal-link" target="_self" rel="noopener">gelatina-piña</a>
+<br><a data-href="leche-asada-canaria" href="recetas/postres/dulces/leche-asada-canaria.html" class="internal-link" target="_self" rel="noopener">leche-asada-canaria</a>
+<br><a data-href="limones-rellenos" href="recetas/postres/dulces/limones-rellenos.html" class="internal-link" target="_self" rel="noopener">limones-rellenos</a>
+<br><a data-href="pepas-frambuesa" href="recetas/postres/dulces/pepas-frambuesa.html" class="internal-link" target="_self" rel="noopener">pepas-frambuesa</a>
+<br><a data-href="quesada" href="recetas/postres/dulces/quesada.html" class="internal-link" target="_self" rel="noopener">quesada</a>
+<br><a data-href="quesadilla" href="recetas/postres/dulces/quesadilla.html" class="internal-link" target="_self" rel="noopener">quesadilla</a>
+<br><a data-href="souffe" href="souffe" class="internal-link" target="_self" rel="noopener">souffe</a>
+<br><a data-href="tiramisu" href="recetas/postres/dulces/tiramisu.html" class="internal-link" target="_self" rel="noopener">tiramisu</a>
 <br><br>
-<br><a data-href="crema-americana.md" href="recetas/postres/cremas/crema-americana.html" class="internal-link" target="_self" rel="noopener">crema-americana.md</a>
-<br><a data-href="crema-limon.md" href="recetas/postres/cremas/crema-limon.html" class="internal-link" target="_self" rel="noopener">crema-limon.md</a>
-<br><a data-href="crema-pastelera.md" href="recetas/postres/cremas/crema-pastelera.html" class="internal-link" target="_self" rel="noopener">crema-pastelera.md</a>
-<br><a data-href="crema-relleno-tarta.md" href="recetas/postres/cremas/crema-relleno-tarta.html" class="internal-link" target="_self" rel="noopener">crema-relleno-tarta.md</a>
+<br><a data-href="flan-cafe" href="recetas/postres/flanes/flan-cafe.html" class="internal-link" target="_self" rel="noopener">flan-cafe</a>
+<br><a data-href="flan-calabaza" href="recetas/postres/flanes/flan-calabaza.html" class="internal-link" target="_self" rel="noopener">flan-calabaza</a>
+<br><a data-href="flan-limon" href="recetas/postres/flanes/flan-limon.html" class="internal-link" target="_self" rel="noopener">flan-limon</a>
+<br><a data-href="flan-queso" href="recetas/postres/flanes/flan-queso.html" class="internal-link" target="_self" rel="noopener">flan-queso</a>
 <br><br>
-<br><a data-href="flan-cafe.md" href="recetas/postres/flanes/flan-cafe.html" class="internal-link" target="_self" rel="noopener">flan-cafe.md</a>
-<br><a data-href="flan-calabaza.md" href="recetas/postres/flanes/flan-calabaza.html" class="internal-link" target="_self" rel="noopener">flan-calabaza.md</a>
-<br><a data-href="flan-limon.md" href="recetas/postres/flanes/flan-limon.html" class="internal-link" target="_self" rel="noopener">flan-limon.md</a>
-<br><a data-href="flan-queso.md" href="recetas/postres/flanes/flan-queso.html" class="internal-link" target="_self" rel="noopener">flan-queso.md</a>
+<br><a data-href="helado-gelatina-fresa" href="recetas/postres/helados/helado-gelatina-fresa.html" class="internal-link" target="_self" rel="noopener">helado-gelatina-fresa</a>
 <br><br>
-<br><a data-href="helado-gelatina-fresa.md" href="recetas/postres/helados/helado-gelatina-fresa.html" class="internal-link" target="_self" rel="noopener">helado-gelatina-fresa.md</a>
+<br><a data-href="mousse-chocolate" href="recetas/postres/mousses/mousse-chocolate.html" class="internal-link" target="_self" rel="noopener">mousse-chocolate</a>
+<br><a data-href="mousse-gofio" href="recetas/postres/mousses/mousse-gofio.html" class="internal-link" target="_self" rel="noopener">mousse-gofio</a>
+<br><a data-href="mousse-limon" href="recetas/postres/mousses/mousse-limon.html" class="internal-link" target="_self" rel="noopener">mousse-limon</a>
+<br><a data-href="mousse-manzana" href="recetas/postres/mousses/mousse-manzana.html" class="internal-link" target="_self" rel="noopener">mousse-manzana</a>
+<br><a data-href="mousse-naranja" href="recetas/postres/mousses/mousse-naranja.html" class="internal-link" target="_self" rel="noopener">mousse-naranja</a>
 <br><br>
-<br><a data-href="mousse-chocolate.md" href="recetas/postres/mousses/mousse-chocolate.html" class="internal-link" target="_self" rel="noopener">mousse-chocolate.md</a>
-<br><a data-href="mousse-gofio.md" href="recetas/postres/mousses/mousse-gofio.html" class="internal-link" target="_self" rel="noopener">mousse-gofio.md</a>
-<br><a data-href="mousse-limon.md" href="recetas/postres/mousses/mousse-limon.html" class="internal-link" target="_self" rel="noopener">mousse-limon.md</a>
-<br><a data-href="mousse-manzana.md" href="recetas/postres/mousses/mousse-manzana.html" class="internal-link" target="_self" rel="noopener">mousse-manzana.md</a>
-<br><a data-href="mousse-naranja.md" href="recetas/postres/mousses/mousse-naranja.html" class="internal-link" target="_self" rel="noopener">mousse-naranja.md</a>
-<br><br>
-<br><a data-href="tarta-calabaza-1.md" href="recetas/postres/tartas/tarta-calabaza-1.html" class="internal-link" target="_self" rel="noopener">tarta-calabaza-1.md</a>
-<br><a data-href="tarta-calabaza-2.md" href="recetas/postres/tartas/tarta-calabaza-2.html" class="internal-link" target="_self" rel="noopener">tarta-calabaza-2.md</a>
-<br><a data-href="tarta-kanikama-puerro.md" href="recetas/postres/tartas/tarta-kanikama-puerro.html" class="internal-link" target="_self" rel="noopener">tarta-kanikama-puerro.md</a>
-<br><a data-href="tarta-manzana.md" href="recetas/postres/tartas/tarta-manzana.html" class="internal-link" target="_self" rel="noopener">tarta-manzana.md</a>
-<br><a data-href="tarta-piña.md" href="recetas/postres/tartas/tarta-piña.html" class="internal-link" target="_self" rel="noopener">tarta-piña.md</a>
-<br><a data-href="tarta-queso.md" href="recetas/postres/tartas/tarta-queso.html" class="internal-link" target="_self" rel="noopener">tarta-queso.md</a>
-<br><a data-href="tarta-ricota.md" href="recetas/postres/tartas/tarta-ricota.html" class="internal-link" target="_self" rel="noopener">tarta-ricota.md</a>
-<br><br>
-<br><a data-href="yogur-queque.md" href="yogur-queque" class="internal-link" target="_self" rel="noopener">yogur-queque.md</a>
-]]></description><link>recetas/listado-comidas.html</link><guid isPermaLink="false">recetas/listado-comidas.md</guid><pubDate>Sat, 29 Jun 2024 00:08:14 GMT</pubDate></item><item><title><![CDATA[Menú del Día]]></title><description><![CDATA[ 
+<br><a data-href="tarta-calabaza-1" href="recetas/postres/tartas/tarta-calabaza-1.html" class="internal-link" target="_self" rel="noopener">tarta-calabaza-1</a>
+<br><a data-href="tarta-calabaza-2" href="recetas/postres/tartas/tarta-calabaza-2.html" class="internal-link" target="_self" rel="noopener">tarta-calabaza-2</a>
+<br><a data-href="tarta-kanikama-puerro" href="recetas/postres/tartas/tarta-kanikama-puerro.html" class="internal-link" target="_self" rel="noopener">tarta-kanikama-puerro</a>
+<br><a data-href="tarta-manzana" href="recetas/postres/tartas/tarta-manzana.html" class="internal-link" target="_self" rel="noopener">tarta-manzana</a>
+<br><a data-href="tarta-manzana-hojaldre" href="recetas/postres/tartas/tarta-manzana-hojaldre.html" class="internal-link" target="_self" rel="noopener">tarta-manzana-hojaldre</a>
+<br><a data-href="tarta-piña" href="recetas/postres/tartas/tarta-piña.html" class="internal-link" target="_self" rel="noopener">tarta-piña</a>
+<br><a data-href="tarta-queso" href="recetas/postres/tartas/tarta-queso.html" class="internal-link" target="_self" rel="noopener">tarta-queso</a>
+<br><a data-href="tarta-ricota" href="recetas/postres/tartas/tarta-ricota.html" class="internal-link" target="_self" rel="noopener">tarta-ricota</a>
+<br>]]></description><link>recetas/index.html</link><guid isPermaLink="false">recetas/index.md</guid><pubDate>Mon, 08 Jul 2024 01:38:54 GMT</pubDate></item><item><title><![CDATA[Menú del Día]]></title><description><![CDATA[ 
  <br><br><br>
 <br>Ensalada César: Lechuga fresca, crutones, queso parmesano y aderezo César.
 <br>Sopa de Tomate: Sopa cremosa de tomate con albahaca fresca.
