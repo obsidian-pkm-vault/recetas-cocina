@@ -1,0 +1,454 @@
+# Low foodmap foods list
+
+## Fruits
+- Tangelo 
+- Blueberries 
+- Bananas 
+- Breadfruit 
+- Carambola 
+- Cranberries 
+- Cantaloupe 
+- Clementines 
+- Dragon fruit 
+- Tamarind 
+- Strawberry 
+- Rhubarb 
+- Raspberry 
+- Grapes 
+- Honeydew 
+- melon 
+- Kiwi 
+- Ripe guava 
+- Lemon 
+- Mandarin 
+- Orange 
+- Lime 
+- Passionfruit 
+- Papaya 
+- Pineapple 
+- Peeled plantain
+
+## Vegetables
+- Alfalfa 
+- Chili 
+- 1 / 4 cup of chickpeas 
+- Brussel sprouts 
+- (limit 2 ) 
+- Bamboo shoots 
+- 1 / 2 cup of broccoli 
+- Zucchini 
+- Water chestnuts 
+- Yam 
+- 1 / 2 cup of sweet 
+- potatoes 
+- Turnip 
+- Canned tomato 
+- Roma tomato 
+- Silverbeet / chard 
+- Spaghetti squash 
+- Baby spinach 
+- Sun-dried tomatoes 
+- (limit 4 ) 
+- 1 / 4 cup canned 
+- pumpkin 
+- Five pods of snow 
+- peas 
+- Cherry tomato 
+- Swiss chard 
+- Bean sprouts 
+- Bok choy 
+- 1 / 4 cup butternut 
+- squash 
+- One cup of cabbage 
+- Callaloo 
+- Cucumber 
+- Green beans 
+- Fennel 
+- Eggplant
+-  Carrots 
+- Kale 
+- Green bell pepper 
+- Chicory leaves 
+- 1 / 2 cob of corn 
+- Collard greens 
+- Okra 
+- Potato 
+- Red bell pepper 
+- Leek leaves 
+- Small serving of 
+- lentils 
+- Butter lettuce 
+- Olives 
+- Iceberg lettuce 
+- Ginger 
+- Chives 
+- Radicchio lettuce 
+- Parsnip 
+- Radish 
+- Scallions 
+- Seaweed
+
+## Ingredients
+- Salt 
+- 1 / 2 cup of cream 
+- Ghee 
+- Lard 
+- Icing sugar 
+- Gelatin 
+- Cocoa powder 
+- Baking soda 
+- Baking powder 
+- Asafoetida powder 
+- (an onion 
+- substitute) 
+- Fenugreek 
+- Basil 
+- Cilantro 
+- Curry powder
+- Coriander 
+- Gotukala 
+- Thyme 
+- Lemongrass 
+- Mint 
+- Oregano 
+- Pandan 
+- Coconut Oil 
+- Olive Oil 
+- Peanut Oil 
+- Parsley 
+- Rosemary 
+- Tarragon 
+- All spice 
+- Chili powder 
+- Nutmeg 
+- Cinnamon 
+- Cloves 
+- Cardamom 
+- Black pepper 
+- Cumin 
+- Fennel seeds 
+- Five spice 
+- Goraka 
+- Mustard seed 
+- Nutmeg 
+- Saffron 
+- Paprika 
+- Star anise 
+- Turmeric 
+- Avocado Oil 
+- Canola Oil 
+- Sesame Oil 
+- Rice Bran Oil 
+- Sunflower Oil 
+- Vegetable Oil
+
+## Starches
+- Tortilla chips 
+- Popcorn 
+- Potato flour 
+- Pretzels 
+- Quinoa 
+- Basmati rice 
+- Gluten free 
+- bread 
+- Wheat free 
+- bread 
+- 1 / 4 cup cooked 
+- bulgur 
+- Buckwheat 
+- Brown rice 
+- Plain chips 
+- 1 / 2 cup of 
+- cornflakes 
+- Millet 
+- 1 / 2 cup of 
+- oatmeal 
+- Polenta 
+- Plain crackers 
+- 3 tortillas 
+- Corn flour 
+- 1 wheat free 
+- biscuit 
+- Spelt 
+- Potato flour bread 
+- Wheat free pasta 
+- Corncakes 
+- Sorghum 
+- Tapioca 
+- Rice flour 
+- Porridge 
+- Rice krispies 
+- Buckwheat noodles 
+- Oatcakes 
+- Rice noodles 
+- Oat based cereals 
+- Brown and white rice 
+- Wheat pasta
+
+## Meats
+- Beef 
+- Chicken 
+- Pork 
+- Lamb 
+- Turkey 
+- Prosciutto 
+- Kangaroo 
+- Cold cuts
+
+## Seafood
+- Canned tuna 
+- Cod 
+- Haddock 
+- Salmon 
+- Plaice 
+- Trout 
+- Crab 
+- Lobster 
+- Mussels 
+- Prawns 
+- Shrimp 
+- Oysters
+## Nuts & seeds
+- Up to 15 almonds 
+- Chestnuts 
+- Up to 15 
+- hazelnuts 
+- Macadamia nuts 
+- Brazil nuts 
+- Up to 15 pecans 
+- Egusi seeds 
+- Chia seeds 
+- Poppy seeds 
+- Pumpkin seeds 
+- Up to 15 pine 
+- nuts 
+- Peanuts 
+- Walnuts 
+- Sunflower seeds 
+- Sesame seeds
+## Condiments
+- Barbecue sauce 
+- One tablespoon of 
+- ketchup 
+- Fish sauce 
+- Maple syrup 
+- Oyster sauce 
+- Mustard
+- One tablespoon of 
+- pesto 
+- Peanut butter 
+- Worcestershire 
+- sauce 
+- Wasabi 
+- Tamarind paste 
+- Two tablespoons of 
+- apple cider vinegar 
+- Soy sauce 
+- Vegemite 
+- Tomato sauce 
+- Two tablespoons of 
+- balsamic vinegar 
+- Sweet and sour 
+- sauce 
+- Shrimp paste 
+- Mayonnaise 
+- Miso paste 
+- Rice wine vinegar 
+- Marmite 
+- Jam 
+- Up to one 
+- tablespoon of 
+- chutney 
+- Rice malt syrup 
+- Capers in vinegar
+
+## Drinks 
+- One beer
+- Clear spirits
+- (vodka)
+- One glass of wine
+- Gin
+- Whiskey
+### Coffe:
+- Peppermint tea 
+- Weak black tea 
+- Green tea 
+- White tea 
+- Weak fruit and herbal tea, not ncluding apple 
+W eak chai tea
+### Other drinks: 
+- Water 
+- Soy milk 
+- Almond milk 
+- Up to 125 ml of safe 
+- fruit juice 
+- Drinking chocolate 
+- powder added to 
+- non-lactose milk 
+- Lemonade 
+- Protein supplements
+
+## Dairy
+### Cheese
+- Goat cheese 
+- 2 tablespoons of 
+- ricotta 
+- Camembert 
+- Brie 
+- Cottage 
+- Feta 
+- Swiss 
+- Parmesan 
+- Mozzarella 
+- Cheddar
+### Cheese: 
+### Milk: 
+- Up to 30 ml oat 
+- milk 
+- Almond milk 
+- Lactose free milk 
+- Hemp milk 
+- Up to 200 ml rice 
+- milk
+
+## Other dairy items
+- Eggs 
+- Margarine 
+- Sorbet 
+- Butter 
+- Soy protein 
+- Dairy free chocolate 
+- pudding 
+- Tempeh 
+- Tofu 
+- Whipped Cream 
+- Lactose free yogurt
+
+# High foodmap foods list
+## Vegetables 
+- Shallots 
+- Scallions 
+- Split peas 
+- Artichoke 
+- Asparagus 
+- Baked beans 
+- Savoy Cabbage 
+- Soy beans 
+- Red kidney beans 
+- Leek bulb 
+- Sugar snap peas 
+- Beetroot 
+- Mushrooms 
+- Mung beans 
+- Black eyed peas 
+- Lima Beans 
+- Mange Tout 
+- Celery 
+- Cauliflower 
+- Haricot beans 
+- Falafel
+
+## Fruits
+- Apples 
+- Watermelon 
+- Apricots 
+- Raisins 
+- Prunes 
+- Pomegranate 
+- Blackberries 
+- Cherries 
+- Avocado 
+- Boysenberry 
+- Currants 
+- Dates 
+- Figs 
+- Goji Berries 
+- Guava 
+- Grapefruit 
+- Mango 
+- Peaches 
+- Pears 
+- Nectarines 
+- Plums 
+- Dried Pineapple
+
+## Starches
+### Products containing wheat:
+- Biscuits 
+- Bread 
+- Cakes 
+- Croissants 
+- Cereal bars 
+- Crumpets 
+- Egg noodles 
+- Pastries 
+- Muffins 
+- Wheat bran 
+- Wheat cereal 
+- Wheat rolls 
+- Wheatgerm
+### Other high foodmap starches to avoid:
+-  Spelt flour 
+- Semolina 
+- Rye 
+- Pistachios 
+- Muesli 
+- Granola 
+- Gnocchi 
+- Cous cous 
+- Naan 
+- Oatmeal bread 
+- Multigrain bread 
+- Bran cereals 
+- Barley 
+- Almond meal 
+- Pumpernickel bread
+
+## Condiments 
+- Tzatziki dip 
+- Tahini paste 
+- Artificial 
+- sweeteners 
+- Stock cubes 
+- Quince paste 
+- Relish 
+- Pesto 
+- Jam 
+- Honey 
+- Hummus 
+- High fructose 
+- corn syrup 
+- Fructose 
+- Agave
+
+## Dairy
+- Halmoumi cheese 
+- Buttermilk 
+- Cream cheese 
+- Gelato 
+- Ricotta cheese 
+- Cream 
+- Custard 
+- Ice cream 
+- Kefir 
+- Yogurt 
+- Sour cream 
+- Milk 
+
+## Drinks
+- Multiple beers 
+- Coconut water 
+- Fruit juices 
+- Fruit and herbal teas 
+- that include apple 
+- Orange juice 
+- Rum 
+- Sodas 
+- Soy milk 
+- Sports drinks 
+- Multiple glasses of 
+- wine 
+- Chamomile tea 
+- Chai tea 
+- Dandelion tea
+- 

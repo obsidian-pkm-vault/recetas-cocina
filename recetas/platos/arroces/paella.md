@@ -9,7 +9,7 @@ tipo: Plato principal
 
 # Paella
 
-![Imagen receta](./paella.jpg)
+![Imagen receta](recetas/platos/arroces/img/paella.jpg)
 
 ## Ingredientes
 

@@ -1,4 +1,6 @@
-# Index
+# Índice de recetas españolas
+
+El vault de recetas de cocina escrito en formato amrkdown para [obsidian.md](https://obsidian.md/) se encuentra alojado en este repositorio de GitHub, [github.com/obsidian-pkm-vault/recetas-cocina](https://github.com/obsidian-pkm-vault/recetas-cocina/).
 
 ## acompañamiento
 ### panes
@@ -144,3 +146,4 @@
 
 ### yogur
 
+[[queque-con-yogur]]

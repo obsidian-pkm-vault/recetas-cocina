@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "d328f3d1d71580f5",
+    "id": "4812cea2f2e518fa",
     "type": "split",
     "children": [
       {
-        "id": "cc7e3d684116d049",
+        "id": "ef39216609747e91",
         "type": "tabs",
         "children": [
           {
-            "id": "8e77cafdfc319959",
+            "id": "f38cea46b03109e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "receta-template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "d41183bc91a1db85",
+    "id": "b48ba2d316a2f62e",
     "type": "split",
     "children": [
       {
-        "id": "e24cd3c0e7613420",
+        "id": "08dff926965d679e",
         "type": "tabs",
         "children": [
           {
-            "id": "322a5dd02c2da655",
+            "id": "ff60b4ec9515e7ef",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +43,7 @@
             }
           },
           {
-            "id": "6066a77dbd573ab3",
+            "id": "fd6ee5745cd3b93e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "4b5152567f27570f",
+            "id": "d8ba080b876315d6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "47520516a86df98b",
+    "id": "c496746eec0610ff",
     "type": "split",
     "children": [
       {
-        "id": "c8687fa3ac8957f8",
+        "id": "e1f5ac5974575903",
         "type": "tabs",
         "children": [
           {
-            "id": "823adbcc6c581832",
+            "id": "bb1e6df7e51e7528",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "receta-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +97,19 @@
             }
           },
           {
-            "id": "f78ef9d69c2e34dd",
+            "id": "7135ebe20180439e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "receta-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "54a72701c0402e3a",
+            "id": "2b67a1b60f84181a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,11 +120,13 @@
             }
           },
           {
-            "id": "1de2e6ba6b48c757",
+            "id": "7aa9f85317a54ee6",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "receta-template.md"
+              }
             }
           }
         ]
@@ -135,43 +143,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "open-vscode:VSCode": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "8e77cafdfc319959",
+  "active": "f38cea46b03109e5",
   "lastOpenFiles": [
-    "recetas/index.md",
-    "recetas/recetario-libros/La-cocina-española-antigua.pdf",
-    "recetas/menus.md",
-    "recetas/receta-template.md",
-    "recetas/platos/ensaladas/ensalada-paraguaya.md",
-    "recetas/platos/ensaladas/ensalada-estilo-ale.md",
-    "recetas/platos/ensaladas/ensalada-arroz.md",
-    "recetas/platos/ensaladas/ensalada-americana.md",
-    "recetas/platos/arroces/img/paella.jpg",
-    "recetas/platos/arroces/img",
-    "recetas/platos/guiso-potaje/sopa-san-pancracio.md",
-    "script/dd-recipes-img-google-api.py",
-    "recetas/platos/guiso-potaje/sopa-cebolla.md",
-    "recetas/platos/guiso-potaje/sopa-carne.md",
-    "recetas/platos/guiso-potaje/sopa-ajo.md",
-    "recetas/platos/guiso-potaje/potaje-blanco.md",
-    "recetas/platos/guiso-potaje/locro.md",
-    "recetas/platos/guiso-potaje/crema-calabacin-queso.md",
-    "README.md",
-    "recetas/postres/tartas/tarta-ricota.md",
-    "recetas/postres/tartas/tarta-queso.md",
-    "recetas/postres/tartas/tarta-piña.md",
-    "recetas/postres/tartas/tarta-manzana.md",
-    "recetas/postres/tartas/tarta-kanikama-puerro.md",
-    "recetas/postres/tartas/tarta-calabaza-2.md",
-    "recetas/postres/tartas/tarta-calabaza-1.md",
-    "recetas/postres/mousses/mousse-naranja.md",
-    "recetas/postres/mousses/mousse-manzana.md",
-    "recetas/postres/mousses/mousse-limon.md",
-    "web",
-    "recetas/postres/tartas/img/tarta-de-manzana-y-hojaldre.jpg"
+    "Atlas-Par-Biomagnetico-Dr-Salvador-Gutierrez_recognized.pdf",
+    "receta-template.md",
+    "menus.md",
+    "Untitled.md",
+    "adios.md"
   ]
 }

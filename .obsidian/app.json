@@ -1,4 +1,5 @@
 {
   "showUnsupportedFiles": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true
 }
