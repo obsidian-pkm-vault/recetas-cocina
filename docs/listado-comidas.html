@@ -1,0 +1,451 @@
+<!DOCTYPE html> <html lang="en"><head>
+<title>listado-comidas</title>
+<base href=".">
+<meta name="pathname" content="listado-comidas.html">
+<meta name="description" content="recetas-cocina - listado-comidas">
+<meta property="og:title" content="listado-comidas">
+<meta property="og:description" content="recetas-cocina - listado-comidas">
+<meta property="og:type" content="website">
+<meta property="og:url" content="./https://obsidian-pkm-vault.github.io/recetas-cocina/listado-comidas.html">
+<meta property="og:image" content="undefined">
+<meta charset="UTF-8"><meta property="og:site_name" content="recetas-cocina"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=5.0"><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="./https://obsidian-pkm-vault.github.io/recetas-cocina/site-lib/rss.xml"><script async="" id="webpage-script" src="site-lib/scripts/webpage.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script async="" id="graph-wasm-script" src="site-lib/scripts/graph-wasm.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><script async="" id="graph-render-worker-script" src="site-lib/scripts/graph-render-worker.js" onload="this.onload=null;this.setAttribute(&quot;loaded&quot;, &quot;true&quot;)"></script><link rel="icon" href="site-lib/media/favicon.png"><link rel="stylesheet" href="site-lib/styles/obsidian.css"><link rel="preload" href="site-lib/styles/global-variable-styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="site-lib/styles/global-variable-styles.css"></noscript><link rel="preload" href="site-lib/styles/main-styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'"><noscript><link rel="stylesheet" href="site-lib/styles/main-styles.css"></noscript><style>body{--line-width:40em;--line-width-adaptive:40em;--file-line-width:40em;--sidebar-width:min(20em, 80vw);--collapse-arrow-size:11px;--tree-vertical-spacing:1.3em;--sidebar-margin:12px}:root{background-color:#202124}.sidebar{height:100%;font-size:14px;z-index:10;min-width:calc(var(--sidebar-width) + var(--divider-width-hover));max-width:calc(var(--sidebar-width) + var(--divider-width-hover));position:relative;overflow:hidden;overflow:clip;transition:min-width ease-in-out,max-width ease-in-out;transition-duration:.2s;contain:size}#left-sidebar{left:0}#right-sidebar{right:0}.sidebar.is-collapsed{min-width:0;max-width:0}.sidebar.floating{position:absolute}.sidebar .leaf-content{height:100%;min-width:calc(var(--sidebar-width) - var(--divider-width-hover));top:0;padding:var(--sidebar-margin);padding-top:4em;line-height:var(--line-height-tight);background-color:var(--background-secondary);transition:background-color,border-right,border-left,box-shadow;transition-duration:var(--color-fade-speed);transition-timing-function:ease-in-out;position:absolute;display:flex;flex-direction:column}.sidebar:not(.is-collapsed) .leaf-content{min-width:calc(max(100%,var(--sidebar-width)) - 3px);max-width:calc(max(100%,var(--sidebar-width)) - 3px)}#left-sidebar-content{left:0;border-top-right-radius:var(--radius-l);border-bottom-right-radius:var(--radius-l)}#right-sidebar-content{right:0;border-top-left-radius:var(--radius-l);border-bottom-left-radius:var(--radius-l)}.sidebar #left-sidebar-content,.sidebar #right-sidebar-content{contain:none!important;container-type:normal!important;animation:none!important}.sidebar:has(.leaf-content:empty):has(.topbar-content:empty){display:none}.sidebar-topbar{height:calc(2.3em + 2 * var(--sidebar-margin));width:var(--sidebar-width);padding:var(--sidebar-margin);z-index:1;position:fixed;display:flex;align-items:center;transition:width ease-in-out;transition-duration:inherit}.sidebar.is-collapsed .sidebar-topbar{width:calc(2.3em + var(--sidebar-margin) * 2)}.sidebar .sidebar-topbar.is-collapsed{width:0}#left-sidebar .sidebar-topbar{left:0;flex-direction:row;border-top-right-radius:var(--radius-l)}#right-sidebar .sidebar-topbar{right:0;flex-direction:row-reverse;border-top-left-radius:var(--radius-l)}#left-sidebar .topbar-content{margin-right:calc(2.3em + var(--sidebar-margin));flex-direction:row}#right-sidebar .topbar-content{margin-left:calc(2.3em + var(--sidebar-margin));flex-direction:row-reverse}.topbar-content{overflow:hidden visible;overflow:clip visible;width:100%;height:100%;display:flex;align-items:center;transition:inherit}.sidebar.is-collapsed .topbar-content{width:0;transition:inherit}.clickable-icon.sidebar-collapse-icon{background-color:transparent;color:var(--icon-color-focused);padding:2px!important;margin:0!important;height:100%!important;width:2.3em!important;margin-inline:0.14em!important;position:absolute}#left-sidebar .clickable-icon.sidebar-collapse-icon{transform:rotateY(180deg);right:var(--sidebar-margin)}#right-sidebar .clickable-icon.sidebar-collapse-icon{transform:rotateY(180deg);left:var(--sidebar-margin)}.clickable-icon.sidebar-collapse-icon svg.svg-icon{width:100%;height:100%}.feature-title{margin-left:1px;text-transform:uppercase;letter-spacing:.06em;margin-top:.75em;margin-bottom:.75em}.feature-header{display:flex;align-items:center;padding-top:0;font-size:1em;padding-left:0}body.floating-sidebars .sidebar{position:absolute}body{transition:background-color var(--color-fade-speed) ease-in-out}#navbar:not(:empty){display:flex;align-items:center;justify-content:space-between;padding:.5em 1em;width:100%}#main{display:flex;flex-direction:column;height:100%;width:100%;align-items:stretch;justify-content:center}#main-horizontal{display:flex;flex-direction:row;flex-grow:1;width:100%;align-items:stretch;justify-content:center}#center-content{flex-basis:100%;max-width:100%;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;transition:opacity .2s ease-in-out;contain:inline-size}.hide{opacity:0!important;transition:opacity .2s ease-in-out;pointer-events:none}#center-content>.obsidian-document{padding-left:2em;padding-right:1em;margin-bottom:0;width:100%;width:-webkit-fill-available;width:-moz-available;width:fill-available;transition:background-color var(--color-fade-speed) ease-in-out;border-top-right-radius:var(--window-radius,var(--radius-m));border-top-left-radius:var(--window-radius,var(--radius-m));overflow-x:hidden!important;overflow-y:auto!important;display:flex!important;flex-direction:column!important;align-items:center!important;contain:inline-size}body #center-content>.obsidian-document>.markdown-preview-sizer{padding-bottom:80vh;width:100%;max-width:var(--line-width);flex-basis:var(--line-width);transition:background-color var(--color-fade-speed) ease-in-out;contain:inline-size}#center-content>.obsidian-document>div{width:100%!important;transition:background-color var(--color-fade-speed) ease-in-out;contain:inline-size}#center-content>.obsidian-document:not([data-type=markdown]).embed{display:flex;padding:1em;height:100%;width:100%;align-items:center;justify-content:center}#center-content>.obsidian-document:not([data-type=markdown]).embed>*{max-width:100%;max-height:100%;object-fit:contain}:not(h1,h2,h3,h4,h5,h6,li):has(> :is(.math,table)){overflow-x:auto!important}#center-content>.obsidian-document:not([data-type=markdown]){overflow-x:auto;contain:content;padding:0;margin:0;height:100%}.obsidian-document[data-type=attachment]{display:flex;flex-direction:column;align-items:center;justify-content:center;height:100%;width:100%}.obsidian-document[data-type=attachment]>*{outline:0;border:none;box-shadow:none}.obsidian-document[data-type=attachment] :is(img){max-width:90%;max-height:90%;object-fit:contain}.obsidian-document[data-type=attachment]>:is(audio){width:100%;max-width:min(90%,var(--line-width))}.obsidian-document[data-type=attachment]>:is(embed,iframe,video){width:100%;height:100%;max-width:100%;max-height:100%;object-fit:contain}.canvas-wrapper>:is(.header,.footer){z-index:100;position:absolute;display:flex;justify-content:center;flex-direction:column;width:100%;align-items:center}.scroll-highlight{position:absolute;width:100%;height:100%;pointer-events:none;z-index:1000;background-color:hsla(var(--color-accent-hsl),.25);opacity:0;padding:1em;inset:50%;translate:-50% -50%;border-radius:var(--radius-s)}</style><script defer="">async function loadIncludes(){let e=document.querySelectorAll("link[itemprop='include']");for(const t of e){let e=t.getAttribute("href");try{let o="";if(e.startsWith("https:")||e.startsWith("http:")||"file:"!=window.location.protocol){const n=await fetch(e);if(!n.ok){console.log("Could not include file: "+e),t?.remove();continue}o=await n.text()}else{const t=document.getElementById(btoa(encodeURI(e)));if(t){const e=JSON.parse(decodeURI(atob(t.getAttribute("value")??"")));o=e?.data??""}}let n=document.createRange().createContextualFragment(o);t.before(n),t.remove(),console.log("Included text: "+o),console.log("Included file: "+e)}catch(o){t?.remove(),console.log("Could not include file: "+e,o);continue}}}document.addEventListener("DOMContentLoaded",(()=>{loadIncludes()}));let isFileProtocol="file:"==location.protocol;function waitLoadScripts(e,t){let o=e.map((e=>document.getElementById(e+"-script")));!function e(n){let l=o[n],c=n+1;l?(l&&"true"!=l.getAttribute("loaded")||n<o.length&&e(c),n<o.length&&l.addEventListener("load",(()=>e(c)))):n<o.length?e(c):t()}(0)}</script></head><body class="publish css-settings-manager styled-scrollbars show-inline-title show-ribbon is-focused"><script defer="">let theme=localStorage.getItem("theme")||(window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light");"dark"==theme?(document.body.classList.add("theme-dark"),document.body.classList.remove("theme-light")):(document.body.classList.add("theme-light"),document.body.classList.remove("theme-dark")),window.innerWidth<480?document.body.classList.add("is-phone"):window.innerWidth<768?document.body.classList.add("is-tablet"):window.innerWidth<1024?document.body.classList.add("is-small-screen"):document.body.classList.add("is-large-screen")</script><div class="parsed-feature-container" style="display: contents;"><link itemprop="include" href="site-lib/html/custom-head-content-content.html"></div><div id="main"><div id="navbar"></div><div id="main-horizontal"><div id="left-content" class="leaf" style="--sidebar-width: var(--sidebar-width-left);"><div id="left-sidebar" class="sidebar"><div class="sidebar-handle"></div><div class="sidebar-topbar"><div class="topbar-content"><div id="search-container"><div id="search-wrapper"><input enterkeyhint="search" type="search" spellcheck="false" placeholder="Search..."><div aria-label="Clear search" id="search-clear-button"></div></div></div></div><div class="clickable-icon sidebar-collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><path d="M21 3H3C1.89543 3 1 3.89543 1 5V19C1 20.1046 1.89543 21 3 21H21C22.1046 21 23 20.1046 23 19V5C23 3.89543 22.1046 3 21 3Z"></path><path d="M10 4V20"></path><path d="M4 7H7"></path><path d="M4 10H7"></path><path d="M4 13H7"></path></svg></div></div><div class="sidebar-content-wrapper"><div id="left-sidebar-content" class="leaf-content"><link itemprop="include" href="site-lib/html/file-tree-content.html"></div></div><script defer="">let ls = document.querySelector("#left-sidebar"); ls.classList.toggle("is-collapsed", window.innerWidth < 768); ls.style.setProperty("--sidebar-width", localStorage.getItem("sidebar-left-width"));</script></div></div><div id="center-content" class="leaf"><div class="obsidian-document markdown-preview-view markdown-rendered node-insert-event is-readable-line-width allow-fold-headings allow-fold-lists show-indentation-guide show-properties" data-type="markdown"><style id="MJX-CHTML-styles"></style><div class="markdown-preview-sizer markdown-preview-section"><div class="header"><h1 class="page-title heading inline-title" id="listado-comidas_0">listado-comidas</h1><div class="data-bar"></div></div><div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div><div class="el-h1"><h1 data-heading="Low foodmap foods list" dir="auto" class="heading" id="Low_foodmap_foods_list_0"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Low foodmap foods list</h1></div><div class="el-h2"><h2 data-heading="Fruits" dir="auto" class="heading" id="Fruits_0"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Fruits</h2></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Tangelo</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>Blueberries</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>Bananas</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>Breadfruit</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>Carambola</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Cranberries</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span>Cantaloupe</li>
+<li data-line="7" dir="auto"><span class="list-bullet"></span>Clementines</li>
+<li data-line="8" dir="auto"><span class="list-bullet"></span>Dragon fruit</li>
+<li data-line="9" dir="auto"><span class="list-bullet"></span>Tamarind</li>
+<li data-line="10" dir="auto"><span class="list-bullet"></span>Strawberry</li>
+<li data-line="11" dir="auto"><span class="list-bullet"></span>Rhubarb</li>
+<li data-line="12" dir="auto"><span class="list-bullet"></span>Raspberry</li>
+<li data-line="13" dir="auto"><span class="list-bullet"></span>Grapes</li>
+<li data-line="14" dir="auto"><span class="list-bullet"></span>Honeydew</li>
+<li data-line="15" dir="auto"><span class="list-bullet"></span>melon</li>
+<li data-line="16" dir="auto"><span class="list-bullet"></span>Kiwi</li>
+<li data-line="17" dir="auto"><span class="list-bullet"></span>Ripe guava</li>
+<li data-line="18" dir="auto"><span class="list-bullet"></span>Lemon</li>
+<li data-line="19" dir="auto"><span class="list-bullet"></span>Mandarin</li>
+<li data-line="20" dir="auto"><span class="list-bullet"></span>Orange</li>
+<li data-line="21" dir="auto"><span class="list-bullet"></span>Lime</li>
+<li data-line="22" dir="auto"><span class="list-bullet"></span>Passionfruit</li>
+<li data-line="23" dir="auto"><span class="list-bullet"></span>Papaya</li>
+<li data-line="24" dir="auto"><span class="list-bullet"></span>Pineapple</li>
+<li data-line="25" dir="auto"><span class="list-bullet"></span>Peeled plantain</li>
+</ul></div><div class="el-h2"><h2 data-heading="Vegetables" dir="auto" class="heading" id="Vegetables_0"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Vegetables</h2></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Alfalfa</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>Chili</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>1 / 4 cup of chickpeas</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>Brussel sprouts</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>(limit 2 )</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Bamboo shoots</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span>1 / 2 cup of broccoli</li>
+<li data-line="7" dir="auto"><span class="list-bullet"></span>Zucchini</li>
+<li data-line="8" dir="auto"><span class="list-bullet"></span>Water chestnuts</li>
+<li data-line="9" dir="auto"><span class="list-bullet"></span>Yam</li>
+<li data-line="10" dir="auto"><span class="list-bullet"></span>1 / 2 cup of sweet</li>
+<li data-line="11" dir="auto"><span class="list-bullet"></span>potatoes</li>
+<li data-line="12" dir="auto"><span class="list-bullet"></span>Turnip</li>
+<li data-line="13" dir="auto"><span class="list-bullet"></span>Canned tomato</li>
+<li data-line="14" dir="auto"><span class="list-bullet"></span>Roma tomato</li>
+<li data-line="15" dir="auto"><span class="list-bullet"></span>Silverbeet / chard</li>
+<li data-line="16" dir="auto"><span class="list-bullet"></span>Spaghetti squash</li>
+<li data-line="17" dir="auto"><span class="list-bullet"></span>Baby spinach</li>
+<li data-line="18" dir="auto"><span class="list-bullet"></span>Sun-dried tomatoes</li>
+<li data-line="19" dir="auto"><span class="list-bullet"></span>(limit 4 )</li>
+<li data-line="20" dir="auto"><span class="list-bullet"></span>1 / 4 cup canned</li>
+<li data-line="21" dir="auto"><span class="list-bullet"></span>pumpkin</li>
+<li data-line="22" dir="auto"><span class="list-bullet"></span>Five pods of snow</li>
+<li data-line="23" dir="auto"><span class="list-bullet"></span>peas</li>
+<li data-line="24" dir="auto"><span class="list-bullet"></span>Cherry tomato</li>
+<li data-line="25" dir="auto"><span class="list-bullet"></span>Swiss chard</li>
+<li data-line="26" dir="auto"><span class="list-bullet"></span>Bean sprouts</li>
+<li data-line="27" dir="auto"><span class="list-bullet"></span>Bok choy</li>
+<li data-line="28" dir="auto"><span class="list-bullet"></span>1 / 4 cup butternut</li>
+<li data-line="29" dir="auto"><span class="list-bullet"></span>squash</li>
+<li data-line="30" dir="auto"><span class="list-bullet"></span>One cup of cabbage</li>
+<li data-line="31" dir="auto"><span class="list-bullet"></span>Callaloo</li>
+<li data-line="32" dir="auto"><span class="list-bullet"></span>Cucumber</li>
+<li data-line="33" dir="auto"><span class="list-bullet"></span>Green beans</li>
+<li data-line="34" dir="auto"><span class="list-bullet"></span>Fennel</li>
+<li data-line="35" dir="auto"><span class="list-bullet"></span>Eggplant</li>
+<li data-line="36" dir="auto"><span class="list-bullet"></span>Carrots</li>
+<li data-line="37" dir="auto"><span class="list-bullet"></span>Kale</li>
+<li data-line="38" dir="auto"><span class="list-bullet"></span>Green bell pepper</li>
+<li data-line="39" dir="auto"><span class="list-bullet"></span>Chicory leaves</li>
+<li data-line="40" dir="auto"><span class="list-bullet"></span>1 / 2 cob of corn</li>
+<li data-line="41" dir="auto"><span class="list-bullet"></span>Collard greens</li>
+<li data-line="42" dir="auto"><span class="list-bullet"></span>Okra</li>
+<li data-line="43" dir="auto"><span class="list-bullet"></span>Potato</li>
+<li data-line="44" dir="auto"><span class="list-bullet"></span>Red bell pepper</li>
+<li data-line="45" dir="auto"><span class="list-bullet"></span>Leek leaves</li>
+<li data-line="46" dir="auto"><span class="list-bullet"></span>Small serving of</li>
+<li data-line="47" dir="auto"><span class="list-bullet"></span>lentils</li>
+<li data-line="48" dir="auto"><span class="list-bullet"></span>Butter lettuce</li>
+<li data-line="49" dir="auto"><span class="list-bullet"></span>Olives</li>
+<li data-line="50" dir="auto"><span class="list-bullet"></span>Iceberg lettuce</li>
+<li data-line="51" dir="auto"><span class="list-bullet"></span>Ginger</li>
+<li data-line="52" dir="auto"><span class="list-bullet"></span>Chives</li>
+<li data-line="53" dir="auto"><span class="list-bullet"></span>Radicchio lettuce</li>
+<li data-line="54" dir="auto"><span class="list-bullet"></span>Parsnip</li>
+<li data-line="55" dir="auto"><span class="list-bullet"></span>Radish</li>
+<li data-line="56" dir="auto"><span class="list-bullet"></span>Scallions</li>
+<li data-line="57" dir="auto"><span class="list-bullet"></span>Seaweed</li>
+</ul></div><div class="el-h2"><h2 data-heading="Ingredients" dir="auto" class="heading" id="Ingredients_0"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Ingredients</h2></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Salt</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>1 / 2 cup of cream</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>Ghee</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>Lard</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>Icing sugar</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Gelatin</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span>Cocoa powder</li>
+<li data-line="7" dir="auto"><span class="list-bullet"></span>Baking soda</li>
+<li data-line="8" dir="auto"><span class="list-bullet"></span>Baking powder</li>
+<li data-line="9" dir="auto"><span class="list-bullet"></span>Asafoetida powder</li>
+<li data-line="10" dir="auto"><span class="list-bullet"></span>(an onion</li>
+<li data-line="11" dir="auto"><span class="list-bullet"></span>substitute)</li>
+<li data-line="12" dir="auto"><span class="list-bullet"></span>Fenugreek</li>
+<li data-line="13" dir="auto"><span class="list-bullet"></span>Basil</li>
+<li data-line="14" dir="auto"><span class="list-bullet"></span>Cilantro</li>
+<li data-line="15" dir="auto"><span class="list-bullet"></span>Curry powder</li>
+<li data-line="16" dir="auto"><span class="list-bullet"></span>Coriander</li>
+<li data-line="17" dir="auto"><span class="list-bullet"></span>Gotukala</li>
+<li data-line="18" dir="auto"><span class="list-bullet"></span>Thyme</li>
+<li data-line="19" dir="auto"><span class="list-bullet"></span>Lemongrass</li>
+<li data-line="20" dir="auto"><span class="list-bullet"></span>Mint</li>
+<li data-line="21" dir="auto"><span class="list-bullet"></span>Oregano</li>
+<li data-line="22" dir="auto"><span class="list-bullet"></span>Pandan</li>
+<li data-line="23" dir="auto"><span class="list-bullet"></span>Coconut Oil</li>
+<li data-line="24" dir="auto"><span class="list-bullet"></span>Olive Oil</li>
+<li data-line="25" dir="auto"><span class="list-bullet"></span>Peanut Oil</li>
+<li data-line="26" dir="auto"><span class="list-bullet"></span>Parsley</li>
+<li data-line="27" dir="auto"><span class="list-bullet"></span>Rosemary</li>
+<li data-line="28" dir="auto"><span class="list-bullet"></span>Tarragon</li>
+<li data-line="29" dir="auto"><span class="list-bullet"></span>All spice</li>
+<li data-line="30" dir="auto"><span class="list-bullet"></span>Chili powder</li>
+<li data-line="31" dir="auto"><span class="list-bullet"></span>Nutmeg</li>
+<li data-line="32" dir="auto"><span class="list-bullet"></span>Cinnamon</li>
+<li data-line="33" dir="auto"><span class="list-bullet"></span>Cloves</li>
+<li data-line="34" dir="auto"><span class="list-bullet"></span>Cardamom</li>
+<li data-line="35" dir="auto"><span class="list-bullet"></span>Black pepper</li>
+<li data-line="36" dir="auto"><span class="list-bullet"></span>Cumin</li>
+<li data-line="37" dir="auto"><span class="list-bullet"></span>Fennel seeds</li>
+<li data-line="38" dir="auto"><span class="list-bullet"></span>Five spice</li>
+<li data-line="39" dir="auto"><span class="list-bullet"></span>Goraka</li>
+<li data-line="40" dir="auto"><span class="list-bullet"></span>Mustard seed</li>
+<li data-line="41" dir="auto"><span class="list-bullet"></span>Nutmeg</li>
+<li data-line="42" dir="auto"><span class="list-bullet"></span>Saffron</li>
+<li data-line="43" dir="auto"><span class="list-bullet"></span>Paprika</li>
+<li data-line="44" dir="auto"><span class="list-bullet"></span>Star anise</li>
+<li data-line="45" dir="auto"><span class="list-bullet"></span>Turmeric</li>
+<li data-line="46" dir="auto"><span class="list-bullet"></span>Avocado Oil</li>
+<li data-line="47" dir="auto"><span class="list-bullet"></span>Canola Oil</li>
+<li data-line="48" dir="auto"><span class="list-bullet"></span>Sesame Oil</li>
+<li data-line="49" dir="auto"><span class="list-bullet"></span>Rice Bran Oil</li>
+<li data-line="50" dir="auto"><span class="list-bullet"></span>Sunflower Oil</li>
+<li data-line="51" dir="auto"><span class="list-bullet"></span>Vegetable Oil</li>
+</ul></div><div class="el-h2"><h2 data-heading="Starches" dir="auto" class="heading" id="Starches_0"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Starches</h2></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Tortilla chips</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>Popcorn</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>Potato flour</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>Pretzels</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>Quinoa</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Basmati rice</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span>Gluten free</li>
+<li data-line="7" dir="auto"><span class="list-bullet"></span>bread</li>
+<li data-line="8" dir="auto"><span class="list-bullet"></span>Wheat free</li>
+<li data-line="9" dir="auto"><span class="list-bullet"></span>bread</li>
+<li data-line="10" dir="auto"><span class="list-bullet"></span>1 / 4 cup cooked</li>
+<li data-line="11" dir="auto"><span class="list-bullet"></span>bulgur</li>
+<li data-line="12" dir="auto"><span class="list-bullet"></span>Buckwheat</li>
+<li data-line="13" dir="auto"><span class="list-bullet"></span>Brown rice</li>
+<li data-line="14" dir="auto"><span class="list-bullet"></span>Plain chips</li>
+<li data-line="15" dir="auto"><span class="list-bullet"></span>1 / 2 cup of</li>
+<li data-line="16" dir="auto"><span class="list-bullet"></span>cornflakes</li>
+<li data-line="17" dir="auto"><span class="list-bullet"></span>Millet</li>
+<li data-line="18" dir="auto"><span class="list-bullet"></span>1 / 2 cup of</li>
+<li data-line="19" dir="auto"><span class="list-bullet"></span>oatmeal</li>
+<li data-line="20" dir="auto"><span class="list-bullet"></span>Polenta</li>
+<li data-line="21" dir="auto"><span class="list-bullet"></span>Plain crackers</li>
+<li data-line="22" dir="auto"><span class="list-bullet"></span>3 tortillas</li>
+<li data-line="23" dir="auto"><span class="list-bullet"></span>Corn flour</li>
+<li data-line="24" dir="auto"><span class="list-bullet"></span>1 wheat free</li>
+<li data-line="25" dir="auto"><span class="list-bullet"></span>biscuit</li>
+<li data-line="26" dir="auto"><span class="list-bullet"></span>Spelt</li>
+<li data-line="27" dir="auto"><span class="list-bullet"></span>Potato flour bread</li>
+<li data-line="28" dir="auto"><span class="list-bullet"></span>Wheat free pasta</li>
+<li data-line="29" dir="auto"><span class="list-bullet"></span>Corncakes</li>
+<li data-line="30" dir="auto"><span class="list-bullet"></span>Sorghum</li>
+<li data-line="31" dir="auto"><span class="list-bullet"></span>Tapioca</li>
+<li data-line="32" dir="auto"><span class="list-bullet"></span>Rice flour</li>
+<li data-line="33" dir="auto"><span class="list-bullet"></span>Porridge</li>
+<li data-line="34" dir="auto"><span class="list-bullet"></span>Rice krispies</li>
+<li data-line="35" dir="auto"><span class="list-bullet"></span>Buckwheat noodles</li>
+<li data-line="36" dir="auto"><span class="list-bullet"></span>Oatcakes</li>
+<li data-line="37" dir="auto"><span class="list-bullet"></span>Rice noodles</li>
+<li data-line="38" dir="auto"><span class="list-bullet"></span>Oat based cereals</li>
+<li data-line="39" dir="auto"><span class="list-bullet"></span>Brown and white rice</li>
+<li data-line="40" dir="auto"><span class="list-bullet"></span>Wheat pasta</li>
+</ul></div><div class="el-h2"><h2 data-heading="Meats" dir="auto" class="heading" id="Meats_0"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Meats</h2></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Beef</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>Chicken</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>Pork</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>Lamb</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>Turkey</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Prosciutto</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span>Kangaroo</li>
+<li data-line="7" dir="auto"><span class="list-bullet"></span>Cold cuts</li>
+</ul></div><div class="el-h2"><h2 data-heading="Seafood" dir="auto" class="heading" id="Seafood_0"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Seafood</h2></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Canned tuna</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>Cod</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>Haddock</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>Salmon</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>Plaice</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Trout</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span>Crab</li>
+<li data-line="7" dir="auto"><span class="list-bullet"></span>Lobster</li>
+<li data-line="8" dir="auto"><span class="list-bullet"></span>Mussels</li>
+<li data-line="9" dir="auto"><span class="list-bullet"></span>Prawns</li>
+<li data-line="10" dir="auto"><span class="list-bullet"></span>Shrimp</li>
+<li data-line="11" dir="auto"><span class="list-bullet"></span>Oysters</li>
+</ul></div><div class="el-h2"><h2 data-heading="Nuts &amp; seeds" dir="auto" class="heading" id="Nuts_&amp;_seeds_0"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Nuts &amp; seeds</h2></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Up to 15 almonds</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>Chestnuts</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>Up to 15</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>hazelnuts</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>Macadamia nuts</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Brazil nuts</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span>Up to 15 pecans</li>
+<li data-line="7" dir="auto"><span class="list-bullet"></span>Egusi seeds</li>
+<li data-line="8" dir="auto"><span class="list-bullet"></span>Chia seeds</li>
+<li data-line="9" dir="auto"><span class="list-bullet"></span>Poppy seeds</li>
+<li data-line="10" dir="auto"><span class="list-bullet"></span>Pumpkin seeds</li>
+<li data-line="11" dir="auto"><span class="list-bullet"></span>Up to 15 pine</li>
+<li data-line="12" dir="auto"><span class="list-bullet"></span>nuts</li>
+<li data-line="13" dir="auto"><span class="list-bullet"></span>Peanuts</li>
+<li data-line="14" dir="auto"><span class="list-bullet"></span>Walnuts</li>
+<li data-line="15" dir="auto"><span class="list-bullet"></span>Sunflower seeds</li>
+<li data-line="16" dir="auto"><span class="list-bullet"></span>Sesame seeds</li>
+</ul></div><div class="el-h2"><h2 data-heading="Condiments" dir="auto" class="heading" id="Condiments_0"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Condiments</h2></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Barbecue sauce</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>One tablespoon of</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>ketchup</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>Fish sauce</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>Maple syrup</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Oyster sauce</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span>Mustard</li>
+<li data-line="7" dir="auto"><span class="list-bullet"></span>One tablespoon of</li>
+<li data-line="8" dir="auto"><span class="list-bullet"></span>pesto</li>
+<li data-line="9" dir="auto"><span class="list-bullet"></span>Peanut butter</li>
+<li data-line="10" dir="auto"><span class="list-bullet"></span>Worcestershire</li>
+<li data-line="11" dir="auto"><span class="list-bullet"></span>sauce</li>
+<li data-line="12" dir="auto"><span class="list-bullet"></span>Wasabi</li>
+<li data-line="13" dir="auto"><span class="list-bullet"></span>Tamarind paste</li>
+<li data-line="14" dir="auto"><span class="list-bullet"></span>Two tablespoons of</li>
+<li data-line="15" dir="auto"><span class="list-bullet"></span>apple cider vinegar</li>
+<li data-line="16" dir="auto"><span class="list-bullet"></span>Soy sauce</li>
+<li data-line="17" dir="auto"><span class="list-bullet"></span>Vegemite</li>
+<li data-line="18" dir="auto"><span class="list-bullet"></span>Tomato sauce</li>
+<li data-line="19" dir="auto"><span class="list-bullet"></span>Two tablespoons of</li>
+<li data-line="20" dir="auto"><span class="list-bullet"></span>balsamic vinegar</li>
+<li data-line="21" dir="auto"><span class="list-bullet"></span>Sweet and sour</li>
+<li data-line="22" dir="auto"><span class="list-bullet"></span>sauce</li>
+<li data-line="23" dir="auto"><span class="list-bullet"></span>Shrimp paste</li>
+<li data-line="24" dir="auto"><span class="list-bullet"></span>Mayonnaise</li>
+<li data-line="25" dir="auto"><span class="list-bullet"></span>Miso paste</li>
+<li data-line="26" dir="auto"><span class="list-bullet"></span>Rice wine vinegar</li>
+<li data-line="27" dir="auto"><span class="list-bullet"></span>Marmite</li>
+<li data-line="28" dir="auto"><span class="list-bullet"></span>Jam</li>
+<li data-line="29" dir="auto"><span class="list-bullet"></span>Up to one</li>
+<li data-line="30" dir="auto"><span class="list-bullet"></span>tablespoon of</li>
+<li data-line="31" dir="auto"><span class="list-bullet"></span>chutney</li>
+<li data-line="32" dir="auto"><span class="list-bullet"></span>Rice malt syrup</li>
+<li data-line="33" dir="auto"><span class="list-bullet"></span>Capers in vinegar</li>
+</ul></div><div class="el-h2"><h2 data-heading="Drinks" dir="auto" class="heading" id="Drinks_0"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Drinks</h2></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>One beer</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>Clear spirits</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>(vodka)</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>One glass of wine</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>Gin</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Whiskey</li>
+</ul></div><div class="el-h3"><h3 data-heading="Coffe" dir="auto" class="heading" id="Coffe_0"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Coffe</h3></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Peppermint tea</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>Weak black tea</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>Green tea</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>White tea</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>Weak fruit and herbal tea, not ncluding apple<br>
+W eak chai tea</li>
+</ul></div><div class="el-h3"><h3 data-heading="Other drinks" dir="auto" class="heading" id="Other_drinks_0"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Other drinks</h3></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Water</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>Soy milk</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>Almond milk</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>Up to 125 ml of safe</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>fruit juice</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Drinking chocolate</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span>powder added to</li>
+<li data-line="7" dir="auto"><span class="list-bullet"></span>non-lactose milk</li>
+<li data-line="8" dir="auto"><span class="list-bullet"></span>Lemonade</li>
+<li data-line="9" dir="auto"><span class="list-bullet"></span>Protein supplements</li>
+</ul></div><div class="el-h2"><h2 data-heading="Dairy" dir="auto" class="heading" id="Dairy_0"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Dairy</h2></div><div class="el-h3"><h3 data-heading="Cheese" dir="auto" class="heading" id="Cheese_0"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Cheese</h3></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Goat cheese</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>2 tablespoons of</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>ricotta</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>Camembert</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>Brie</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Cottage</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span>Feta</li>
+<li data-line="7" dir="auto"><span class="list-bullet"></span>Swiss</li>
+<li data-line="8" dir="auto"><span class="list-bullet"></span>Parmesan</li>
+<li data-line="9" dir="auto"><span class="list-bullet"></span>Mozzarella</li>
+<li data-line="10" dir="auto"><span class="list-bullet"></span>Cheddar</li>
+</ul></div><div class="el-h3"><h3 data-heading="Cheese" dir="auto" class="heading" id="Cheese_1"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Cheese</h3></div><div class="el-h3"><h3 data-heading="Milk" dir="auto" class="heading" id="Milk_0"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Milk</h3></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Up to 30 ml oat</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>milk</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>Almond milk</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>Lactose free milk</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>Hemp milk</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Up to 200 ml rice</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span>milk</li>
+</ul></div><div class="el-h2"><h2 data-heading="Other dairy items" dir="auto" class="heading" id="Other_dairy_items_0"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Other dairy items</h2></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Eggs</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>Margarine</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>Sorbet</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>Butter</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>Soy protein</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Dairy free chocolate</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span>pudding</li>
+<li data-line="7" dir="auto"><span class="list-bullet"></span>Tempeh</li>
+<li data-line="8" dir="auto"><span class="list-bullet"></span>Tofu</li>
+<li data-line="9" dir="auto"><span class="list-bullet"></span>Whipped Cream</li>
+<li data-line="10" dir="auto"><span class="list-bullet"></span>Lactose free yogurt</li>
+</ul></div><div class="el-h1"><h1 data-heading="High foodmap foods list" dir="auto" class="heading" id="High_foodmap_foods_list_0"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>High foodmap foods list</h1></div><div class="el-h2"><h2 data-heading="Vegetables" dir="auto" class="heading" id="Vegetables_1"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Vegetables</h2></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Shallots</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>Scallions</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>Split peas</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>Artichoke</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>Asparagus</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Baked beans</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span>Savoy Cabbage</li>
+<li data-line="7" dir="auto"><span class="list-bullet"></span>Soy beans</li>
+<li data-line="8" dir="auto"><span class="list-bullet"></span>Red kidney beans</li>
+<li data-line="9" dir="auto"><span class="list-bullet"></span>Leek bulb</li>
+<li data-line="10" dir="auto"><span class="list-bullet"></span>Sugar snap peas</li>
+<li data-line="11" dir="auto"><span class="list-bullet"></span>Beetroot</li>
+<li data-line="12" dir="auto"><span class="list-bullet"></span>Mushrooms</li>
+<li data-line="13" dir="auto"><span class="list-bullet"></span>Mung beans</li>
+<li data-line="14" dir="auto"><span class="list-bullet"></span>Black eyed peas</li>
+<li data-line="15" dir="auto"><span class="list-bullet"></span>Lima Beans</li>
+<li data-line="16" dir="auto"><span class="list-bullet"></span>Mange Tout</li>
+<li data-line="17" dir="auto"><span class="list-bullet"></span>Celery</li>
+<li data-line="18" dir="auto"><span class="list-bullet"></span>Cauliflower</li>
+<li data-line="19" dir="auto"><span class="list-bullet"></span>Haricot beans</li>
+<li data-line="20" dir="auto"><span class="list-bullet"></span>Falafel</li>
+</ul></div><div class="el-h2"><h2 data-heading="Fruits" dir="auto" class="heading" id="Fruits_1"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Fruits</h2></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Apples</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>Watermelon</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>Apricots</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>Raisins</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>Prunes</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Pomegranate</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span>Blackberries</li>
+<li data-line="7" dir="auto"><span class="list-bullet"></span>Cherries</li>
+<li data-line="8" dir="auto"><span class="list-bullet"></span>Avocado</li>
+<li data-line="9" dir="auto"><span class="list-bullet"></span>Boysenberry</li>
+<li data-line="10" dir="auto"><span class="list-bullet"></span>Currants</li>
+<li data-line="11" dir="auto"><span class="list-bullet"></span>Dates</li>
+<li data-line="12" dir="auto"><span class="list-bullet"></span>Figs</li>
+<li data-line="13" dir="auto"><span class="list-bullet"></span>Goji Berries</li>
+<li data-line="14" dir="auto"><span class="list-bullet"></span>Guava</li>
+<li data-line="15" dir="auto"><span class="list-bullet"></span>Grapefruit</li>
+<li data-line="16" dir="auto"><span class="list-bullet"></span>Mango</li>
+<li data-line="17" dir="auto"><span class="list-bullet"></span>Peaches</li>
+<li data-line="18" dir="auto"><span class="list-bullet"></span>Pears</li>
+<li data-line="19" dir="auto"><span class="list-bullet"></span>Nectarines</li>
+<li data-line="20" dir="auto"><span class="list-bullet"></span>Plums</li>
+<li data-line="21" dir="auto"><span class="list-bullet"></span>Dried Pineapple</li>
+</ul></div><div class="el-h2"><h2 data-heading="Starches" dir="auto" class="heading" id="Starches_1"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Starches</h2></div><div class="el-h3"><h3 data-heading="Products containing wheat" dir="auto" class="heading" id="Products_containing_wheat_0"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Products containing wheat</h3></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Biscuits</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>Bread</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>Cakes</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>Croissants</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>Cereal bars</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Crumpets</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span>Egg noodles</li>
+<li data-line="7" dir="auto"><span class="list-bullet"></span>Pastries</li>
+<li data-line="8" dir="auto"><span class="list-bullet"></span>Muffins</li>
+<li data-line="9" dir="auto"><span class="list-bullet"></span>Wheat bran</li>
+<li data-line="10" dir="auto"><span class="list-bullet"></span>Wheat cereal</li>
+<li data-line="11" dir="auto"><span class="list-bullet"></span>Wheat rolls</li>
+<li data-line="12" dir="auto"><span class="list-bullet"></span>Wheatgerm</li>
+</ul></div><div class="el-h3"><h3 data-heading="Other high foodmap starches to avoid" dir="auto" class="heading" id="Other_high_foodmap_starches_to_avoid_0"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Other high foodmap starches to avoid</h3></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Spelt flour</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>Semolina</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>Rye</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>Pistachios</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>Muesli</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Granola</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span>Gnocchi</li>
+<li data-line="7" dir="auto"><span class="list-bullet"></span>Cous cous</li>
+<li data-line="8" dir="auto"><span class="list-bullet"></span>Naan</li>
+<li data-line="9" dir="auto"><span class="list-bullet"></span>Oatmeal bread</li>
+<li data-line="10" dir="auto"><span class="list-bullet"></span>Multigrain bread</li>
+<li data-line="11" dir="auto"><span class="list-bullet"></span>Bran cereals</li>
+<li data-line="12" dir="auto"><span class="list-bullet"></span>Barley</li>
+<li data-line="13" dir="auto"><span class="list-bullet"></span>Almond meal</li>
+<li data-line="14" dir="auto"><span class="list-bullet"></span>Pumpernickel bread</li>
+</ul></div><div class="el-h2"><h2 data-heading="Condiments" dir="auto" class="heading" id="Condiments_1"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Condiments</h2></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Tzatziki dip</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>Tahini paste</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>Artificial</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>sweeteners</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>Stock cubes</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Quince paste</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span>Relish</li>
+<li data-line="7" dir="auto"><span class="list-bullet"></span>Pesto</li>
+<li data-line="8" dir="auto"><span class="list-bullet"></span>Jam</li>
+<li data-line="9" dir="auto"><span class="list-bullet"></span>Honey</li>
+<li data-line="10" dir="auto"><span class="list-bullet"></span>Hummus</li>
+<li data-line="11" dir="auto"><span class="list-bullet"></span>High fructose</li>
+<li data-line="12" dir="auto"><span class="list-bullet"></span>corn syrup</li>
+<li data-line="13" dir="auto"><span class="list-bullet"></span>Fructose</li>
+<li data-line="14" dir="auto"><span class="list-bullet"></span>Agave</li>
+</ul></div><div class="el-h2"><h2 data-heading="Dairy" dir="auto" class="heading" id="Dairy_1"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Dairy</h2></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Halmoumi cheese</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>Buttermilk</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>Cream cheese</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>Gelato</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>Ricotta cheese</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Cream</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span>Custard</li>
+<li data-line="7" dir="auto"><span class="list-bullet"></span>Ice cream</li>
+<li data-line="8" dir="auto"><span class="list-bullet"></span>Kefir</li>
+<li data-line="9" dir="auto"><span class="list-bullet"></span>Yogurt</li>
+<li data-line="10" dir="auto"><span class="list-bullet"></span>Sour cream</li>
+<li data-line="11" dir="auto"><span class="list-bullet"></span>Milk</li>
+</ul></div><div class="el-h2"><h2 data-heading="Drinks" dir="auto" class="heading" id="Drinks_1"><span class="heading-collapse-indicator collapse-indicator collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></span>Drinks</h2></div><div class="el-ul"><ul class="has-list-bullet">
+<li data-line="0" dir="auto"><span class="list-bullet"></span>Multiple beers</li>
+<li data-line="1" dir="auto"><span class="list-bullet"></span>Coconut water</li>
+<li data-line="2" dir="auto"><span class="list-bullet"></span>Fruit juices</li>
+<li data-line="3" dir="auto"><span class="list-bullet"></span>Fruit and herbal teas</li>
+<li data-line="4" dir="auto"><span class="list-bullet"></span>that include apple</li>
+<li data-line="5" dir="auto"><span class="list-bullet"></span>Orange juice</li>
+<li data-line="6" dir="auto"><span class="list-bullet"></span>Rum</li>
+<li data-line="7" dir="auto"><span class="list-bullet"></span>Sodas</li>
+<li data-line="8" dir="auto"><span class="list-bullet"></span>Soy milk</li>
+<li data-line="9" dir="auto"><span class="list-bullet"></span>Sports drinks</li>
+<li data-line="10" dir="auto"><span class="list-bullet"></span>Multiple glasses of</li>
+<li data-line="11" dir="auto"><span class="list-bullet"></span>wine</li>
+<li data-line="12" dir="auto"><span class="list-bullet"></span>Chamomile tea</li>
+<li data-line="13" dir="auto"><span class="list-bullet"></span>Chai tea</li>
+<li data-line="14" dir="auto"><span class="list-bullet"></span>Dandelion tea</li>
+<li data-line="15" dir="auto"><span class="list-bullet"></span></li>
+</ul></div><div class="footer"><div class="data-bar"></div></div></div></div></div><div id="right-content" class="leaf" style="--sidebar-width: var(--sidebar-width-right);"><div id="right-sidebar" class="sidebar"><div class="sidebar-handle"></div><div class="sidebar-topbar"><div class="topbar-content"><label class="theme-toggle-container" for="theme-toggle-input" id=""><input class="theme-toggle-input" type="checkbox" id="theme-toggle-input"><div class="toggle-background"></div></label></div><div class="clickable-icon sidebar-collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><path d="M21 3H3C1.89543 3 1 3.89543 1 5V19C1 20.1046 1.89543 21 3 21H21C22.1046 21 23 20.1046 23 19V5C23 3.89543 22.1046 3 21 3Z"></path><path d="M10 4V20"></path><path d="M4 7H7"></path><path d="M4 10H7"></path><path d="M4 13H7"></path></svg></div></div><div class="sidebar-content-wrapper"><div id="right-sidebar-content" class="leaf-content"><div class="graph-view-wrapper"><div class="feature-header"><div class="feature-title">Interactive Graph</div></div><div class="graph-view-placeholder">
+		<div class="graph-view-container">
+			<div class="graph-icon graph-expand" role="button" aria-label="Expand" data-tooltip-position="top"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon"><line x1="7" y1="17" x2="17" y2="7"></line><polyline points="7 7 17 7 17 17"></polyline></svg></div>
+			<div class="graph-icon graph-global" role="button" aria-label="Global Graph" data-tooltip-position="top"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-git-fork"><circle cx="12" cy="18" r="3"></circle><circle cx="6" cy="6" r="3"></circle><circle cx="18" cy="6" r="3"></circle><path d="M18 9v2c0 .6-.4 1-1 1H7c-.6 0-1-.4-1-1V9"></path><path d="M12 12v3"></path></svg></div>
+			<canvas id="graph-canvas" class="hide" width="512px" height="512px"></canvas>
+		</div>
+		</div></div><div id="outline" class=" tree-container"><div class="feature-header"><div class="feature-title">Table Of Contents</div><button class="clickable-icon nav-action-button tree-collapse-all" aria-label="Collapse All"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></svg></button></div><div class="tree-item" data-depth="1"><a class="tree-item-self is-clickable" href="listado-comidas.html#listado-comidas_0" data-path="#listado-comidas_0"><div class="tree-item-inner heading-link" heading-name="listado-comidas">listado-comidas</div></a><div class="tree-item-children"></div></div><div class="tree-item mod-collapsible" data-depth="1"><a class="tree-item-self is-clickable mod-collapsible" href="listado-comidas.html#Low_foodmap_foods_list_0" data-path="#Low_foodmap_foods_list_0"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><div class="tree-item-inner heading-link" heading-name="Low foodmap foods list">Low foodmap foods list</div></a><div class="tree-item-children"><div class="tree-item" data-depth="2"><a class="tree-item-self is-clickable" href="listado-comidas.html#Fruits_0" data-path="#Fruits_0"><div class="tree-item-inner heading-link" heading-name="Fruits">Fruits</div></a><div class="tree-item-children"></div></div><div class="tree-item" data-depth="2"><a class="tree-item-self is-clickable" href="listado-comidas.html#Vegetables_0" data-path="#Vegetables_0"><div class="tree-item-inner heading-link" heading-name="Vegetables">Vegetables</div></a><div class="tree-item-children"></div></div><div class="tree-item" data-depth="2"><a class="tree-item-self is-clickable" href="listado-comidas.html#Ingredients_0" data-path="#Ingredients_0"><div class="tree-item-inner heading-link" heading-name="Ingredients">Ingredients</div></a><div class="tree-item-children"></div></div><div class="tree-item" data-depth="2"><a class="tree-item-self is-clickable" href="listado-comidas.html#Starches_0" data-path="#Starches_0"><div class="tree-item-inner heading-link" heading-name="Starches">Starches</div></a><div class="tree-item-children"></div></div><div class="tree-item" data-depth="2"><a class="tree-item-self is-clickable" href="listado-comidas.html#Meats_0" data-path="#Meats_0"><div class="tree-item-inner heading-link" heading-name="Meats">Meats</div></a><div class="tree-item-children"></div></div><div class="tree-item" data-depth="2"><a class="tree-item-self is-clickable" href="listado-comidas.html#Seafood_0" data-path="#Seafood_0"><div class="tree-item-inner heading-link" heading-name="Seafood">Seafood</div></a><div class="tree-item-children"></div></div><div class="tree-item" data-depth="2"><a class="tree-item-self is-clickable" href="listado-comidas.html#Nuts_&amp;_seeds_0" data-path="#Nuts_&amp;_seeds_0"><div class="tree-item-inner heading-link" heading-name="Nuts &amp; seeds">Nuts &amp; seeds</div></a><div class="tree-item-children"></div></div><div class="tree-item" data-depth="2"><a class="tree-item-self is-clickable" href="listado-comidas.html#Condiments_0" data-path="#Condiments_0"><div class="tree-item-inner heading-link" heading-name="Condiments">Condiments</div></a><div class="tree-item-children"></div></div><div class="tree-item mod-collapsible" data-depth="2"><a class="tree-item-self is-clickable mod-collapsible" href="listado-comidas.html#Drinks_0" data-path="#Drinks_0"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><div class="tree-item-inner heading-link" heading-name="Drinks">Drinks</div></a><div class="tree-item-children"><div class="tree-item" data-depth="3"><a class="tree-item-self is-clickable" href="listado-comidas.html#Coffe_0" data-path="#Coffe_0"><div class="tree-item-inner heading-link" heading-name="Coffe">Coffe</div></a><div class="tree-item-children"></div></div><div class="tree-item" data-depth="3"><a class="tree-item-self is-clickable" href="listado-comidas.html#Other_drinks_0" data-path="#Other_drinks_0"><div class="tree-item-inner heading-link" heading-name="Other drinks">Other drinks</div></a><div class="tree-item-children"></div></div></div></div><div class="tree-item mod-collapsible" data-depth="2"><a class="tree-item-self is-clickable mod-collapsible" href="listado-comidas.html#Dairy_0" data-path="#Dairy_0"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><div class="tree-item-inner heading-link" heading-name="Dairy">Dairy</div></a><div class="tree-item-children"><div class="tree-item" data-depth="3"><a class="tree-item-self is-clickable" href="listado-comidas.html#Cheese_0" data-path="#Cheese_0"><div class="tree-item-inner heading-link" heading-name="Cheese">Cheese</div></a><div class="tree-item-children"></div></div><div class="tree-item" data-depth="3"><a class="tree-item-self is-clickable" href="listado-comidas.html#Cheese_1" data-path="#Cheese_1"><div class="tree-item-inner heading-link" heading-name="Cheese">Cheese</div></a><div class="tree-item-children"></div></div><div class="tree-item" data-depth="3"><a class="tree-item-self is-clickable" href="listado-comidas.html#Milk_0" data-path="#Milk_0"><div class="tree-item-inner heading-link" heading-name="Milk">Milk</div></a><div class="tree-item-children"></div></div></div></div><div class="tree-item" data-depth="2"><a class="tree-item-self is-clickable" href="listado-comidas.html#Other_dairy_items_0" data-path="#Other_dairy_items_0"><div class="tree-item-inner heading-link" heading-name="Other dairy items">Other dairy items</div></a><div class="tree-item-children"></div></div></div></div><div class="tree-item mod-collapsible" data-depth="1"><a class="tree-item-self is-clickable mod-collapsible" href="listado-comidas.html#High_foodmap_foods_list_0" data-path="#High_foodmap_foods_list_0"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><div class="tree-item-inner heading-link" heading-name="High foodmap foods list">High foodmap foods list</div></a><div class="tree-item-children"><div class="tree-item" data-depth="2"><a class="tree-item-self is-clickable" href="listado-comidas.html#Vegetables_1" data-path="#Vegetables_1"><div class="tree-item-inner heading-link" heading-name="Vegetables">Vegetables</div></a><div class="tree-item-children"></div></div><div class="tree-item" data-depth="2"><a class="tree-item-self is-clickable" href="listado-comidas.html#Fruits_1" data-path="#Fruits_1"><div class="tree-item-inner heading-link" heading-name="Fruits">Fruits</div></a><div class="tree-item-children"></div></div><div class="tree-item mod-collapsible" data-depth="2"><a class="tree-item-self is-clickable mod-collapsible" href="listado-comidas.html#Starches_1" data-path="#Starches_1"><div class="tree-item-icon collapse-icon"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon right-triangle"><path d="M3 8L12 17L21 8"></path></svg></div><div class="tree-item-inner heading-link" heading-name="Starches">Starches</div></a><div class="tree-item-children"><div class="tree-item" data-depth="3"><a class="tree-item-self is-clickable" href="listado-comidas.html#Products_containing_wheat_0" data-path="#Products_containing_wheat_0"><div class="tree-item-inner heading-link" heading-name="Products containing wheat">Products containing wheat</div></a><div class="tree-item-children"></div></div><div class="tree-item" data-depth="3"><a class="tree-item-self is-clickable" href="listado-comidas.html#Other_high_foodmap_starches_to_avoid_0" data-path="#Other_high_foodmap_starches_to_avoid_0"><div class="tree-item-inner heading-link" heading-name="Other high foodmap starches to avoid">Other high foodmap starches to avoid</div></a><div class="tree-item-children"></div></div></div></div><div class="tree-item" data-depth="2"><a class="tree-item-self is-clickable" href="listado-comidas.html#Condiments_1" data-path="#Condiments_1"><div class="tree-item-inner heading-link" heading-name="Condiments">Condiments</div></a><div class="tree-item-children"></div></div><div class="tree-item" data-depth="2"><a class="tree-item-self is-clickable" href="listado-comidas.html#Dairy_1" data-path="#Dairy_1"><div class="tree-item-inner heading-link" heading-name="Dairy">Dairy</div></a><div class="tree-item-children"></div></div><div class="tree-item" data-depth="2"><a class="tree-item-self is-clickable" href="listado-comidas.html#Drinks_1" data-path="#Drinks_1"><div class="tree-item-inner heading-link" heading-name="Drinks">Drinks</div></a><div class="tree-item-children"></div></div></div></div></div></div></div><script defer="">let rs = document.querySelector("#right-sidebar"); rs.classList.toggle("is-collapsed", window.innerWidth < 768); rs.style.setProperty("--sidebar-width", localStorage.getItem("sidebar-right-width"));</script></div></div></div></div></body></html>

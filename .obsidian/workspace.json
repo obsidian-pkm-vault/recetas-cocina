@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "94d7edefd94612a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "31b271dda8c418ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b8743011eb5b444",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "817e6aeb96730920",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b861323ec50f11d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cb84b15481ff5e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "794d270d7420aa3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e2be6cf861fb372d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b73c154dd7c30638",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbfd39727f6a0047",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a252c0f1fb8c379e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "img/acompañamiento/mayonesa.webp",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for mayonesa"
+            }
+          },
+          {
+            "id": "4307ac34144fac9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "img/acompañamiento/mayonesa.webp",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from mayonesa"
+            }
+          },
+          {
+            "id": "9d8da6c9d16fc878",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5555fb4f6332efc6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "50f623d5673abcf7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "img/acompañamiento/mayonesa.webp",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of mayonesa"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "webpage-html-export:Export as HTML": false
+    }
+  },
+  "active": "5b8743011eb5b444",
+  "lastOpenFiles": [
+    "README.md",
+    "docs/site-lib/search-index.json",
+    "docs/site-lib/metadata.json",
+    "docs/img/postres/fresones-a-la-crema.jpg",
+    "docs/img/postres/sufle.png",
+    "docs/img/platos/pudin-pescado.jpg",
+    "docs/img/bebidas/cerveza-dry-stout.png",
+    "docs/img/postres/bizcocho.jpg",
+    "docs/img/platos/paella.jpg",
+    "docs/img/platos/guiso-lentejas-veg.jpg",
+    "docs/img/platos/guiso-lentejas.jpg",
+    "docs/img/platos/bacalao.jpg",
+    "docs/img/bebidas/caffee-types.jpg",
+    "bebidas/jugos.md",
+    "docs/site-lib/scripts/webpage.js",
+    "docs/site-lib/scripts/graph-wasm.js",
+    "docs/site-lib/scripts/graph-wasm.wasm",
+    "docs/site-lib/scripts/graph-render-worker.js",
+    "docs/site-lib/styles/obsidian.css",
+    "docs/site-lib/styles/main-styles.css",
+    "docs/site-lib/styles/global-variable-styles.css",
+    "docs/site-lib/html/file-tree-content.html",
+    "bebidas/wine_with_cheese.md",
+    "bebidas/cheese_with_wine.md",
+    "comidas/platos/papas/patatas-paletilla.md",
+    "comidas/acompañamiento/salsas/mozzarella.md",
+    "comidas/platos/pizzas/pizza.md",
+    "comidas/platos/pescados/calamares-rellenos.md",
+    "comidas/postres/tartas/tarta-manzana-hojaldre.md",
+    "comidas/postres/dulces/tiramisu.md",
+    "bebidas/cafes.md",
+    "bebidas/cerveza-mandioca-stout.md",
+    "bebidas/cerveza-dry-stout.md",
+    "comidas/platos/pescados/brota.md",
+    "comidas/platos/arroces/paella.md",
+    "index.md",
+    "listado-comidas.md",
+    "comidas/postres/dulces/pepas-frambuesa.md",
+    "comidas/postres/flanes/flan-queso.md",
+    "comidas/platos/verduras/espinacas-con-gambas.md",
+    "comidas/platos/verduras/pudin-verduras.md",
+    "comidas/acompañamiento/panes/pan-blanco.md",
+    "comidas/acompañamiento/panes/pan-chipa.md",
+    "comidas/acompañamiento/panes/pan-integral.md",
+    "comidas/acompañamiento/panes/pan-sin-amasar.md",
+    "comidas/acompañamiento/panes/pan-masa-madre.md"
+  ]
+}
