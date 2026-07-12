@@ -1,40 +1,41 @@
 ---
-nombre: Pollo con arroz al curry
-dificultad: Cocinero_Dominguero
-tiempo: 40 minutos
-etiquetas: #pollo, #arroz, #curry, #espinacas, #crema
-tipo: Principal
+title: "Pollo Al Curry"
+tags: ["carnes", "principal"]
+image: "https://chefbook-prod.s3.us-west-2.amazonaws.com/1747098507530-ab1e2b4440a115"
+source: "https://www.directoalpaladar.com/recetas-de-carnes-y-aves/receta-de-pollo-al-curry-en-10-minutos"
+credit: ""
+prep_time: ""
+total_time: "10 min"
 ---
 
-# Pollo con arroz al curry
+# Pollo Al Curry
 
-![Imagen del plato](img/platos/pollo-al-curry.jpg)
+![Recipe Image](https://chefbook-prod.s3.us-west-2.amazonaws.com/1747098507530-ab1e2b4440a115)
 
-## Ingredientes
+**Tags:** carnes, principal  
+**Source:** https://www.directoalpaladar.com/recetas-de-carnes-y-aves/receta-de-pollo-al-curry-en-10-minutos  
+**Active time:**   
 
-- 1 pechuga de pollo grandecita
-- 1 taza de arroz
-- 2 zanahorias grandes
-- 1 paquetito de espinacas
-- 1 morrón
-- 2 cucharaditas de curry
-- 1 pote chico de crema
-- Caldo de verdura para hidratar
-- Aceite o manteca para rehogar
-- Sal a gusto
+## Ingredients
 
-## Preparación
+- 2count Pechuga de pollo
+- 1 Cebolleta
+- 1count Dientes de ajo
+- 5g Jengibre fresco
+- 1count Guindilla
+- 5g Curry molido
+- 2g Cúrcuma molida
+- 2g Comino molido
+- 45ml Tomate triturado
+- 2g Sal
+- Pimienta negra molida
+- 200ml Leche de coco
+- Aceite de oliva virgen extra
+- Cilantro fresco
 
-1. En una cacerola grande, calentar un poco de aceite o manteca y rehogar el pollo cortado en trozos, el morrón picado y las zanahorias en rodajas finas. Añadir sal para que suelten los jugos de los ingredientes.
+## Instructions
 
-2. Cuando el pollo esté cocido, agregar el curry y el arroz. Saltear brevemente.
+1. Lo primero es tener preparados todos los ingredientes. Cortar el pollo **en piezas de un bocado**. Picar la cebolleta y muy fino el diente de ajo, el [jengibre](http://www.directoalpaladar.com/ingredientes/condimentos/jengibre) y la guindilla sin las semillas, si la usamos. Si usamos cebolla troceada congelada ahorraremos aún más tiempo.
+2. Calentar un poco de aceite en una sartén o cazuela y freír la cebolleta 2 minutos. Agregar el ajo, el jengibre y la guindilla, dar unas vueltas e incorporar el tomate. Pasado 1 minuto, **agregar todas las especias** y remover bien.
+3. Incorporar el [pollo](http://www.directoalpaladar.com/ingredientes/carnes-blancas/pollo), salpimentar y mezclar. **Cocinar a fuego fuerte** unos pocos minutos, hasta que esté dorado por todas partes. Cubrir con la leche de coco o nata y dejar reducir ligeramente. Servir con perejil o cilantro fresco picado.
 
-3. Ir añadiendo caldo de verdura poco a poco para hidratar la preparación, hasta que el arroz esté cocido y haya absorbido todo el caldo. Dejar evaporar el exceso de líquido.
-
-4. Agregar la crema y calentar bien. Incorporar las espinacas cortadas en tiras y mezclar hasta que se integren.
-
-5. Rectificar la sazón con sal si es necesario.
-
-6. Servir caliente y disfrutar con un buen vino.
-
-¡Buen provecho!
